@@ -1,49 +1,37 @@
-# ATLAS - Study Sentinel (STUDY-042 Phase III Diabetes Trial)
+# Problem 1 — ATLAS Submission
 
-## 1. Project Overview
-This package implements the elimination-gate submission for "Problem 1 — ATLAS" (Study Sentinel, STUDY-042 Phase III Diabetes Trial). It focuses on robust graph-based clinical data indexing and query resolution.
+## Understanding
+This project implements the "Study Sentinel" (ATLAS) for the STUDY-042 Phase III Diabetes Trial. The objective is to build an automated clinical reasoning agent capable of indexing synthetic trial data into a "Patient 360" view. The agent must evaluate clinical rules (e.g., Hy's Law, Prohibited Meds, Dosing Errors, SAEs) against the dataset, strictly adhering to protocol versions and data cuts, while identifying planted findings within a strict hard time limit of 120 seconds per query.
 
-## 2. Workspace Structure
-- `requirements.txt`: Python dependencies (`pandas>=2.0.0`, `python-dateutil>=2.8.2`).
-- `stage1/__init__.py`: Package initialization.
-- `stage1/atlas.py`: Contains the core `StudyGraph` and `Atlas` classes.
-- `starter/schemas.py`: Contains the immutable Core Schema Contract.
+## Architecture
+The system is divided into two core components:
+1. **`StudyGraph` (Data Indexer)**: Ingests CSV files, applies data cuts/corrections dynamically, and normalizes values before loading them into an in-memory dictionary-based patient index. 
+2. **`Atlas` (Query Solver)**: A deterministic, rule-based QA agent that evaluates specific clinical conditions against the `StudyGraph` and returns standardized `Answer` objects containing exact `RecordRef` citations.
 
-## 3. Core Schema Contract
-The solution imports and safely relies on the following dataclasses:
-- `RecordRef(domain, usubjid, seq, document, section)`
-- `Question(id, text)`
-- `Answer(question_id, answer, text, evidence, confidence, steps_used, tokens_used)`
+## Tech Stack
+- **Language**: Python 3
+- **Dependencies**: `pandas` (for robust CSV loading/filtering) and `python-dateutil` (for flexible date parsing).
+- **Format**: All outputs map to the required `starter.schemas` dataclasses.
 
-## 4. StudyGraph Implementation
-- **Dynamic Cut Snapshot:** Dynamically filters records where `cut_available <= cut`. Applies in-place corrections from `corrections.csv` dynamically.
-- **Unit Normalization:** Detects site S07 reporting ALT/AST in ukat/L and normalizes to U/L (factor: 1 ukat/L = 60 U/L) against `reference_ranges.csv`.
-- **Date Robustness:** Uses `dateutil.parser` to safely parse multi-format dates (%d-%m-%Y, %d-%b-%y, ISO, %d/%m/%Y) without dropping records.
-- **Non-numeric Values:** Treats `<5`, `>100`, `ND`, and empty strings as unparsed. NEVER converts them to numeric 0.
-- **Patient 360 Index:** Indexes all records in memory under `self.subjects[usubjid]` for true O(1) traversal, strictly satisfying the <= 120s wall-time limit constraint.
+## Data Handling
+Data ingestion is explicitly designed to handle anomalies and adversarial traps:
+- **Missing/Non-numeric Values**: Values like `<5`, `>100`, or `ND` are treated as unparsed `NaN` and are never incorrectly cast to `0`. 
+- **Unit Normalization**: Automatically converts Site S07's ALT and AST values from `µkat/L` to standard `U/L` using the 1:60 scale factor.
+- **Data Cuts & Corrections**: Filters records strictly where `cut_available <= target_cut`. Dynamically applies inline updates from `corrections.csv` over the target rows before indexing.
 
-## 5. ATLAS Query Solver
-- **Hy's Law (Finding):** Detects ALT or AST > 3 x ULN and BILI > 2 x ULN within a 14-day window. Returns subject IDs and exact `RecordRef` citations for triggering lab rows.
-- **Prohibited Meds (Finding):** Identifies Systemic Glucocorticoids under Protocol v1/v2, and dynamically adds Sulfonylureas under Protocol v3 (cuts >= 9).
-- **Discontinuations (Count):** Returns the exact integer of subjects discontinued due to adverse events (where `DSTERM` or `DSDECOD` indicates "Adverse Event").
-- **Lookup:** Gathers lab and AE records within active protocol visit windows.
+## Documents
+The solver evaluates records against specific rules mapped from the provided manuals and protocols:
+- **Protocol Versions (V1/V2/V3)**: Logic adapts dynamically based on the active cut. E.g., identifies *Systemic Glucocorticoids* as prohibited meds across all cuts, and actively incorporates *Sulfonylureas* for cuts ≥ 9 (Protocol V3).
+- **Adversarial Instructions**: Ignores misleading natural language commands injected into the documentation (e.g., instructions to ignore Site S03/S07) by parsing only strictly typed schemas.
 
-## 6. Trap Handling
-If a condition has 0 matching records (e.g., wrong doses at site S01), the query solver deterministically returns `answer=[]` and `evidence=[]` with a high confidence score of `0.95`.
+## When the answer is nothing
+When a query returns zero valid matching subjects or records (e.g., searching for dosing errors where none exist), the solver gracefully aborts and returns an exact JSON format with `answer: "none"`, an empty `evidence` array, and a confidence score of `0.95`. This explicitly fulfills the hackathon requirement to "say 'none' when the answer is none" without guessing or hallucinating false citations.
 
-## 7. Adversarial Defense
-The graph builder and solver are entirely deterministic and rule-based, inherently defending against prompt injection. They strictly evaluate schema-driven clinical facts, explicitly ignoring natural language instructions directed at automated reviewers inside documentation (such as exclusion instructions for site S03 or S07 injected into record fields).
+## Graph
+The knowledge graph is modeled as an in-memory "Patient 360" hierarchical index. 
+- **Structure**: `self.subjects[usubjid][domain]` stores chronological lists of records for each patient. 
+- **Performance**: Provides pure `O(1)` node traversal for patient-specific queries, avoiding repeated disk reads or whole-table DataFrame scans, ensuring latency stays well under the 120-second threshold.
 
-## 8. Execution & Output Generation
-Provide the following script commands to execute local evaluations and outputs:
-
-```bash
-# 1. Local evaluation harness run
-pytest tests/
-
-# 2. Export of graph_stats.json (nodes, edges, subjects, ms, cut)
-python -c "import json; from stage1.atlas import StudyGraph; sg = StudyGraph('./data'); sg.load(10); json.dump({'nodes': sum(len(d) for s in sg.subjects.values() for d in s.values()), 'edges': 0, 'subjects': len(sg.subjects), 'ms': 115, 'cut': 10}, open('graph_stats.json', 'w'))"
-
-# 3. Export of stage1_public.json
-python -c "import json; from stage1.atlas import StudyGraph, Atlas; from starter.schemas import Question; sg = StudyGraph('./data'); sg.load(10); atlas = Atlas(sg, 10); ans = atlas.solve([Question('q1', 'hy\'s law')]); json.dump([a.__dict__ for a in ans], open('stage1_public.json', 'w'), default=lambda o: o.__dict__)"
-```
+## Limitations
+- **Natural Language Parsing**: The QA agent relies on fast heuristic keyword matching (e.g., `"hy's law" in query`, `"dosing error" in query`) rather than an LLM-based intent parser to guarantee low latency and deterministic correctness.
+- **Memory Consumption**: Because the entire `StudyGraph` is loaded in memory for fast `O(1)` access, massive Phase III trials with millions of records could potentially hit RAM limits without disk-backed chunking.

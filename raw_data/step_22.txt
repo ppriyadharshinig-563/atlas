@@ -1,0 +1,977 @@
+<USER_REQUEST>
+USUBJID	AESEQ	AETERM	AESEV	AESER	AESHOSP	AESTDTC	AEENDTC	AEOUT	AENARR	cut_available	corrected_at_cut
+042-S02-001	1	Headache	MILD	N	N	21-03-2026	25-03-2026	RECOVERED	Subject reported headache on study day 60; mild intensity, resolved after 4 days.	4	
+042-S03-001	1	Nausea	MILD	N	N	03-Feb-26	13-Feb-26	RECOVERED	Investigator assessed nausea as mild; no change to study drug; recovered.	2	
+042-S03-001	2	Back pain	MILD	N	N	02-Jun-26	10-Jun-26	RECOVERED	Investigator assessed back pain as mild; no change to study drug; recovered.	8	
+042-S05-001	1	Nausea	MILD	N	N	31-05-2026	12-06-2026	RECOVERED	Nausea (mild) noted at follow-up call; duration 12 days.	8	
+042-S06-001	1	Diarrhoea	MILD	N	N	08-02-2026	17-02-2026	RECOVERED	Diarrhoea of mild severity, onset day 24, managed conservatively.	2	
+042-S06-001	2	Headache	MILD	N	N	22-03-2026	03-04-2026	RECOVERED	Headache (mild) noted at follow-up call; duration 12 days.	4	
+042-S07-001	1	Diarrhoea	MILD	N	N	01-03-2026	03-03-2026	RECOVERED	Investigator assessed diarrhoea as mild; no change to study drug; recovered.	3	
+042-S08-001	1	Dizziness	MILD	N	N	06-03-2026	16-03-2026	RECOVERED	Dizziness (mild) noted at follow-up call; duration 10 days.	6	
+042-S08-001	2	Rash	MILD	N	N	25-01-2026	26-01-2026	RECOVERED	Subject reported rash on study day 13; mild intensity, resolved after 1 days.	4	
+042-S08-001	3	Dizziness	MILD	N	N	10-04-2026	23-04-2026	RECOVERED	Dizziness (mild) noted at follow-up call; duration 13 days.	8	
+042-S09-001	1	Dizziness	MILD	N	N	26-04-2026	10-05-2026	RECOVERED	Dizziness (mild) noted at follow-up call; duration 14 days.	6	
+042-S10-001	1	Hypoglycaemia	MODERATE	N	N	26-05-2026	06-06-2026	RECOVERED	Hypoglycaemia (moderate) noted at follow-up call; duration 11 days.	8	
+042-S10-001	2	Headache	MILD	N	N	24-01-2026	02-02-2026	RECOVERED	Headache (mild) noted at follow-up call; duration 9 days.	1	
+042-S11-001	1	Hypoglycaemia	MODERATE	N	N	31-05-2026	03-06-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	8	
+042-S02-002	1	Hypoglycaemia	MODERATE	N	N	04-02-2026	07-02-2026	RECOVERED	Investigator assessed hypoglycaemia as moderate; no change to study drug; recovered.	2	
+042-S02-002	2	Hypoglycaemia	MODERATE	N	N	24-03-2026	04-04-2026	RECOVERED	Subject reported hypoglycaemia on study day 59; moderate intensity, resolved after 11 days.	4	
+042-S02-002	3	Back pain	MILD	N	N	04-03-2026	10-03-2026	RECOVERED	Subject reported back pain on study day 39; mild intensity, resolved after 6 days.	3	
+042-S04-002	1	Dizziness	MILD	N	N	19-03-2026	31-03-2026	RECOVERED	Subject reported dizziness on study day 55; mild intensity, resolved after 12 days.	4	
+042-S05-002	1	Diarrhoea	MILD	N	N	13-04-2026	21-04-2026	RECOVERED	Diarrhoea of mild severity, onset day 78, managed conservatively.	6	
+042-S06-002	1	Urinary tract infection	MODERATE	N	N	06-06-2026	09-06-2026	RECOVERED	Urinary tract infection of moderate severity, onset day 134, managed conservatively.	9	
+042-S07-002	1	Diarrhoea	MILD	N	N	24-06-2026	07-07-2026	RECOVERED	Subject reported diarrhoea on study day 153; mild intensity, resolved after 13 days.	10	
+042-S07-002	2	Urinary tract infection	MODERATE	N	N	28-02-2026	05-03-2026	RECOVERED	Urinary tract infection (moderate) noted at follow-up call; duration 5 days.	3	
+042-S08-002	1	Hypoglycaemia	MODERATE	N	N	25-03-2026	08-04-2026	RECOVERED	Subject reported hypoglycaemia on study day 61; moderate intensity, resolved after 14 days.	8	
+042-S09-002	1	Diarrhoea	MILD	N	N	02-02-2026	16-02-2026	RECOVERED	Diarrhoea of mild severity, onset day 16, managed conservatively.	2	
+042-S10-002	1	Headache	MILD	N	N	10-04-2026	19-04-2026	RECOVERED	Subject reported headache on study day 81; mild intensity, resolved after 9 days.	5	
+042-S12-002	1	Upper respiratory tract infection	MILD	N	N	14-04-2026	26-04-2026	RECOVERED	Subject reported upper respiratory tract infection on study day 83; mild intensity, resolved after 12 days.	6	
+042-S01-003	1	Urinary tract infection	MODERATE	N	N	28-02-2026	02-03-2026	RECOVERED	Urinary tract infection of moderate severity, onset day 37, managed conservatively.	3	
+042-S02-003	1	Rash	MILD	N	N	21-05-2026	29-05-2026	RECOVERED	Rash (mild) noted at follow-up call; duration 8 days.	8	
+042-S03-003	1	Fatigue	MILD	N	N	08-Apr-26	14-Apr-26	RECOVERED	Fatigue (mild) noted at follow-up call; duration 6 days.	5	
+042-S03-003	2	Hypoglycaemia	MODERATE	N	N	01-Apr-26	11-Apr-26	RECOVERED	Hypoglycaemia of moderate severity, onset day 59, managed conservatively.	5	
+042-S04-003	1	Back pain	MILD	N	N	12-06-2026	14-06-2026	RECOVERED	Back pain of mild severity, onset day 146, managed conservatively.	9	
+042-S05-003	1	Nausea	MILD	N	N	25-02-2026	04-03-2026	RECOVERED	Nausea (mild) noted at follow-up call; duration 7 days.	3	
+042-S05-003	2	Hypoglycaemia	MODERATE	N	N	15-02-2026	27-02-2026	RECOVERED	Hypoglycaemia of moderate severity, onset day 29, managed conservatively.	2	
+042-S06-003	1	Headache	MILD	N	N	18-02-2026	04-03-2026	RECOVERED	Subject reported headache on study day 17; mild intensity, resolved after 14 days.	3	
+042-S07-003	1	Diarrhoea	MILD	N	N	23-05-2026	28-05-2026	RECOVERED	Investigator assessed diarrhoea as mild; no change to study drug; recovered.	8	
+042-S08-003	1	Upper respiratory tract infection	MILD	N	N	10-02-2026	18-02-2026	RECOVERED	Upper respiratory tract infection (mild) noted at follow-up call; duration 8 days.	5	
+042-S09-003	1	Hypoglycaemia	MODERATE	N	N	19-02-2026	03-03-2026	RECOVERED	Hypoglycaemia (moderate) noted at follow-up call; duration 12 days.	3	
+042-S10-003	1	Back pain	MILD	N	N	06-04-2026	10-04-2026	RECOVERED	Investigator assessed back pain as mild; no change to study drug; recovered.	5	
+042-S10-003	2	Diarrhoea	MILD	N	N	21-03-2026	29-03-2026	RECOVERED	Investigator assessed diarrhoea as mild; no change to study drug; recovered.	4	
+042-S12-003	1	Back pain	MILD	N	N	03-02-2026	09-02-2026	RECOVERED	Subject reported back pain on study day 17; mild intensity, resolved after 6 days.	2	
+042-S01-004	1	Upper respiratory tract infection	MILD	N	N	26-01-2026	30-01-2026	RECOVERED	Investigator assessed upper respiratory tract infection as mild; no change to study drug; recovered.	1	
+042-S02-004	1	Cellulitis	SEVERE	N	Y	13-04-2026	14-04-2026	RECOVERED	Investigator assessed cellulitis as severe; no change to study drug; recovered.	6	
+042-S02-004	2	Headache	MILD	N	N	14-04-2026	25-04-2026	RECOVERED	Headache (mild) noted at follow-up call; duration 11 days.	6	
+042-S03-004	1	Nausea	MILD	N	N	24-Apr-26	26-Apr-26	RECOVERED	Nausea of mild severity, onset day 86, managed conservatively.	6	
+042-S05-004	1	Rash	MILD	N	N	16-02-2026	19-02-2026	RECOVERED	Rash of mild severity, onset day 33, managed conservatively.	2	
+042-S05-004	2	Headache	MILD	N	N	02-06-2026	06-06-2026	RECOVERED	Investigator assessed headache as mild; no change to study drug; recovered.	8	
+042-S06-004	1	Dizziness	MILD	N	N	29-04-2026	11-05-2026	RECOVERED	Subject reported dizziness on study day 99; mild intensity, resolved after 12 days.	6	
+042-S06-004	2	Urinary tract infection	MODERATE	N	N	28-04-2026	29-04-2026	RECOVERED	Subject reported urinary tract infection on study day 98; moderate intensity, resolved after 1 days.	6	
+042-S07-004	1	Diarrhoea	MILD	N	N	19-05-2026	27-05-2026	RECOVERED	Diarrhoea of mild severity, onset day 113, managed conservatively.	8	
+042-S08-004	1	Nausea	MILD	N	N	27-02-2026	02-03-2026	RECOVERED	Investigator assessed nausea as mild; no change to study drug; recovered.	6	
+042-S08-004	2	Upper respiratory tract infection	MILD	N	N	18-03-2026	20-03-2026	RECOVERED	Subject reported upper respiratory tract infection on study day 49; mild intensity, resolved after 2 days.	7	
+042-S08-004	3	Back pain	MILD	N	N	03-05-2026	17-05-2026	RECOVERED	Back pain of mild severity, onset day 95, managed conservatively.	10	
+042-S09-004	1	Hypoglycaemia	MODERATE	N	N	24-04-2026	28-04-2026	RECOVERED	Hypoglycaemia (moderate) noted at follow-up call; duration 4 days.	6	
+042-S09-004	2	Hypoglycaemia	MODERATE	N	N	13-04-2026	17-04-2026	RECOVERED	Investigator assessed hypoglycaemia as moderate; no change to study drug; recovered.	6	
+042-S09-004	3	Upper respiratory tract infection	MILD	N	N	12-05-2026	23-05-2026	RECOVERED	Upper respiratory tract infection of mild severity, onset day 119, managed conservatively.	7	
+042-S09-004	4	Rash	MILD	N	N	12-02-2026	15-02-2026	RECOVERED	Rash of mild severity, onset day 30, managed conservatively.	2	
+042-S10-004	1	Upper respiratory tract infection	MILD	N	N	14-06-2026	25-06-2026	RECOVERED	Upper respiratory tract infection (mild) noted at follow-up call; duration 11 days.	9	
+042-S11-004	1	Dizziness	MILD	N	N	16-04-2026	18-04-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	6	
+042-S11-004	2	Rash	MILD	N	N	08-07-2026	17-07-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	10	
+042-S12-004	1	Headache	MILD	N	N	03-04-2026	05-04-2026	RECOVERED	Subject reported headache on study day 62; mild intensity, resolved after 2 days.	5	
+042-S03-005	1	Headache	MILD	N	N	14-May-26	21-May-26	RECOVERED	Subject reported headache on study day 106; mild intensity, resolved after 7 days.	7	
+042-S06-005	1	Headache	MILD	N	N	01-04-2026	14-04-2026	RECOVERED	Headache (mild) noted at follow-up call; duration 13 days.	5	
+042-S07-005	1	Nausea	MILD	N	N	21-04-2026	05-05-2026	RECOVERED	Investigator assessed nausea as mild; no change to study drug; recovered.	6	
+042-S08-005	1	Fatigue	MILD	N	N	25-01-2026	29-01-2026	RECOVERED	Investigator assessed fatigue as mild; no change to study drug; recovered.	4	
+042-S08-005	2	Rash	MILD	N	N	23-06-2026	06-07-2026	RECOVERED	Rash of mild severity, onset day 156, managed conservatively.	13	
+042-S09-005	1	Hypoglycaemia	MODERATE	N	N	25-02-2026	11-03-2026	RECOVERED	Investigator assessed hypoglycaemia as moderate; no change to study drug; recovered.	3	
+042-S09-005	2	Hypoglycaemia	MODERATE	N	N	24-06-2026	26-06-2026	RECOVERED	Investigator assessed hypoglycaemia as moderate; no change to study drug; recovered.	10	
+042-S09-005	3	Fatigue	MILD	N	N	23-05-2026	06-06-2026	RECOVERED	Subject reported fatigue on study day 116; mild intensity, resolved after 14 days.	8	
+042-S10-005	1	Rash	MILD	N	N	14-05-2026	27-05-2026	RECOVERED	Rash of mild severity, onset day 103, managed conservatively.	7	
+042-S10-005	2	Upper respiratory tract infection	MILD	N	N	26-04-2026	29-04-2026	RECOVERED	Upper respiratory tract infection (mild) noted at follow-up call; duration 3 days.	6	
+042-S11-005	1	Fatigue	MILD	N	N	08-01-2026	22-01-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	6	
+042-S12-005	1	Pneumonia	SEVERE	Y	Y	01-02-2026	03-02-2026	RECOVERED	Pneumonia of severe severity, onset day 4, managed conservatively.	2	
+042-S01-006	1	Diarrhoea	MILD	N	N	27-02-2026	05-03-2026	RECOVERED	Diarrhoea (mild) noted at follow-up call; duration 6 days.	3	
+042-S02-006	1	Diarrhoea	MILD	N	N	06-05-2026	09-05-2026	RECOVERED	Diarrhoea (mild) noted at follow-up call; duration 3 days.	7	
+042-S02-006	2	Diarrhoea	MILD	N	N	21-05-2026	27-05-2026	RECOVERED	Investigator assessed diarrhoea as mild; no change to study drug; recovered.	8	
+042-S03-006	1	Headache	MILD	N	N	30-Apr-26	01-May-26	RECOVERED	Subject reported headache on study day 98; mild intensity, resolved after 1 days.	7	
+042-S03-006	2	Nausea	MILD	N	N	08-Jun-26	19-Jun-26	RECOVERED	Investigator assessed nausea as mild; no change to study drug; recovered.	9	
+042-S05-006	1	Myocardial infarction	SEVERE	Y	Y	10-02-2026	13-02-2026	RECOVERED	Investigator assessed myocardial infarction as severe; no change to study drug; recovered.	2	
+042-S05-006	2	Back pain	MILD	N	N	02-04-2026	05-04-2026	RECOVERED	Back pain of mild severity, onset day 71, managed conservatively.	5	
+042-S06-006	1	Dizziness	MILD	N	N	02-02-2026	16-02-2026	RECOVERED	Dizziness of mild severity, onset day 4, managed conservatively.	2	
+042-S07-006	1	Urinary tract infection	MODERATE	N	N	22-02-2026	03-03-2026	RECOVERED	Investigator assessed urinary tract infection as moderate; no change to study drug; recovered.	3	
+042-S08-006	1	Fatigue	MILD	N	N	30-04-2026	11-05-2026	RECOVERED	Investigator assessed fatigue as mild; no change to study drug; recovered.	10	
+042-S09-006	1	Hypoglycaemia	MODERATE	N	N	01-04-2026	14-04-2026	RECOVERED	Investigator assessed hypoglycaemia as moderate; no change to study drug; recovered.	5	
+042-S09-006	2	Hypoglycaemia	MODERATE	N	N	26-02-2026	28-02-2026	RECOVERED	Hypoglycaemia of moderate severity, onset day 43, managed conservatively.	3	
+042-S09-006	3	Hypoglycaemia	MODERATE	N	N	13-06-2026	22-06-2026	RECOVERED	Hypoglycaemia (moderate) noted at follow-up call; duration 9 days.	9	
+042-S09-006	4	Upper respiratory tract infection	MILD	N	N	22-05-2026	31-05-2026	RECOVERED	Subject reported upper respiratory tract infection on study day 128; mild intensity, resolved after 9 days.	8	
+042-S10-006	1	Urinary tract infection	MODERATE	N	N	23-01-2026	02-02-2026	RECOVERED	Urinary tract infection of moderate severity, onset day 3, managed conservatively.	1	
+042-S11-006	1	Hypoglycaemia	MODERATE	N	N	11-04-2026	24-04-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	6	
+042-S12-006	1	Back pain	MILD	N	N	28-06-2026	29-06-2026	RECOVERED	Investigator assessed back pain as mild; no change to study drug; recovered.	10	
+042-S01-007	1	Myocardial infarction	SEVERE	Y	Y	20-03-2026	21-03-2026	RECOVERED	Myocardial infarction (severe) noted at follow-up call; duration 1 days.	4	
+042-S02-007	1	Headache	MILD	N	N	09-06-2026	13-06-2026	RECOVERED	Headache of mild severity, onset day 143, managed conservatively.	9	
+042-S02-007	2	Headache	MILD	N	N	31-01-2026	05-02-2026	RECOVERED	Headache (mild) noted at follow-up call; duration 5 days.	2	
+042-S04-007	1	Rash	MILD	N	N	25-05-2026	28-05-2026	RECOVERED	Rash (mild) noted at follow-up call; duration 3 days.	8	
+042-S04-007	2	Urinary tract infection	MODERATE	N	N	13-06-2026	24-06-2026	RECOVERED	Urinary tract infection (moderate) noted at follow-up call; duration 11 days.	9	
+042-S08-007	1	Fatigue	MILD	N	N	23-04-2026	07-05-2026	RECOVERED	Investigator assessed fatigue as mild; no change to study drug; recovered.	9	
+042-S09-007	1	Nausea	MILD	N	N	06-05-2026	15-05-2026	RECOVERED	Subject reported nausea on study day 100; mild intensity, resolved after 9 days.	7	
+042-S09-007	2	Headache	MILD	N	N	25-04-2026	29-04-2026	RECOVERED	Headache (mild) noted at follow-up call; duration 4 days.	6	
+042-S10-007	1	Upper respiratory tract infection	MILD	N	N	19-04-2026	23-04-2026	RECOVERED	Investigator assessed upper respiratory tract infection as mild; no change to study drug; recovered.	6	
+042-S10-007	2	Fatigue	MILD	N	N	15-05-2026	21-05-2026	RECOVERED	Fatigue (mild) noted at follow-up call; duration 6 days.	7	
+042-S01-008	1	Upper respiratory tract infection	MILD	N	N	28-05-2026	31-05-2026	RECOVERED	Upper respiratory tract infection of mild severity, onset day 127, managed conservatively.	8	
+042-S02-008	1	Fatigue	MILD	N	N	07-03-2026	09-03-2026	RECOVERED	Subject reported fatigue on study day 43; mild intensity, resolved after 2 days.	4	
+042-S03-008	1	Hypoglycaemia	MODERATE	N	N	24-Apr-26	04-May-26	RECOVERED	Subject reported hypoglycaemia on study day 93; moderate intensity, resolved after 10 days.	6	
+042-S03-008	2	Dizziness	MILD	N	N	16-Apr-26	24-Apr-26	RECOVERED	Dizziness of mild severity, onset day 85, managed conservatively.	6	
+042-S04-008	1	Rash	MILD	N	N	12-06-2026	24-06-2026	RECOVERED	Rash of mild severity, onset day 142, managed conservatively.	9	
+042-S04-008	2	Hypoglycaemia	MODERATE	N	N	22-04-2026	01-05-2026	RECOVERED	Investigator assessed hypoglycaemia as moderate; no change to study drug; recovered.	6	
+042-S05-008	1	Fatigue	MILD	N	N	21-03-2026	04-04-2026	RECOVERED	Investigator assessed fatigue as mild; no change to study drug; recovered.	4	
+042-S08-008	1	Upper respiratory tract infection	MILD	N	N	10-04-2026	17-04-2026	RECOVERED	Subject reported upper respiratory tract infection on study day 82; mild intensity, resolved after 7 days.	8	
+042-S10-008	1	Urinary tract infection	MODERATE	N	N	16-05-2026	23-05-2026	RECOVERED	Urinary tract infection of moderate severity, onset day 124, managed conservatively.	7	
+042-S10-008	2	Diarrhoea	MILD	N	N	18-06-2026	21-06-2026	RECOVERED	Diarrhoea of mild severity, onset day 157, managed conservatively.	9	
+042-S10-008	3	Rash	MILD	N	N	05-05-2026	17-05-2026	RECOVERED	Rash (mild) noted at follow-up call; duration 12 days.	7	
+042-S11-008	1	Fatigue	MILD	N	N	18-03-2026	31-03-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	6	
+042-S12-008	1	Nausea	MILD	N	N	19-06-2026	23-06-2026	RECOVERED	Nausea of mild severity, onset day 150, managed conservatively.	9	
+042-S12-008	2	Diarrhoea	MILD	N	N	15-03-2026	24-03-2026	RECOVERED	Diarrhoea of mild severity, onset day 54, managed conservatively.	4	
+042-S01-009	1	Back pain	MILD	N	N	21-06-2026	02-07-2026	RECOVERED	Investigator assessed back pain as mild; no change to study drug; recovered.	9	
+042-S02-009	1	Back pain	MILD	N	N	21-01-2026	23-01-2026	RECOVERED	Back pain of mild severity, onset day 4, managed conservatively.	1	
+042-S02-009	2	Headache	MILD	N	N	05-04-2026	18-04-2026	RECOVERED	Headache of mild severity, onset day 78, managed conservatively.	5	
+042-S02-009	3	Upper respiratory tract infection	MILD	N	N	02-03-2026	13-03-2026	RECOVERED	Investigator assessed upper respiratory tract infection as mild; no change to study drug; recovered.	3	
+042-S04-009	1	Hypoglycaemia	MODERATE	N	N	25-06-2026	01-07-2026	RECOVERED	Hypoglycaemia of moderate severity, onset day 149, managed conservatively.	10	
+042-S04-009	2	Hypoglycaemia	MODERATE	N	N	09-04-2026	16-04-2026	RECOVERED	Hypoglycaemia (moderate) noted at follow-up call; duration 7 days.	5	
+042-S05-009	1	Dizziness	MILD	N	N	10-05-2026	23-05-2026	RECOVERED	Dizziness (mild) noted at follow-up call; duration 13 days.	7	
+042-S06-009	1	Upper respiratory tract infection	MILD	N	N	25-04-2026	26-04-2026	RECOVERED	Investigator assessed upper respiratory tract infection as mild; no change to study drug; recovered.	6	
+042-S07-009	1	Hypoglycaemia	MODERATE	N	N	14-06-2026	24-06-2026	RECOVERED	Subject reported hypoglycaemia on study day 143; moderate intensity, resolved after 10 days.	9	
+042-S08-009	1	Dizziness	MILD	N	N	20-05-2026	24-05-2026	RECOVERED	Subject reported dizziness on study day 115; mild intensity, resolved after 4 days.	11	
+042-S08-009	2	Rash	MILD	N	N	08-05-2026	17-05-2026	RECOVERED	Rash of mild severity, onset day 103, managed conservatively.	10	
+042-S08-009	3	Headache	MILD	N	N	03-03-2026	13-03-2026	RECOVERED	Subject reported headache on study day 37; mild intensity, resolved after 10 days.	6	
+042-S09-009	1	Hypoglycaemia	MODERATE	N	N	11-02-2026	12-02-2026	RECOVERED	Subject reported hypoglycaemia on study day 16; moderate intensity, resolved after 1 days.	2	
+042-S09-009	2	Hypoglycaemia	MODERATE	N	N	31-05-2026	04-06-2026	RECOVERED	Subject reported hypoglycaemia on study day 125; moderate intensity, resolved after 4 days.	8	
+042-S09-009	3	Upper respiratory tract infection	MILD	N	N	22-03-2026	01-04-2026	RECOVERED	Subject reported upper respiratory tract infection on study day 55; mild intensity, resolved after 10 days.	4	
+042-S09-009	4	Diarrhoea	MILD	N	N	21-02-2026	23-02-2026	RECOVERED	Investigator assessed diarrhoea as mild; no change to study drug; recovered.	3	
+042-S10-009	1	Urinary tract infection	MODERATE	N	N	18-02-2026	24-02-2026	RECOVERED	Urinary tract infection of moderate severity, onset day 27, managed conservatively.	3	
+042-S10-009	2	Rash	MILD	N	N	15-02-2026	17-02-2026	RECOVERED	Rash (mild) noted at follow-up call; duration 2 days.	2	
+042-S11-009	1	Upper respiratory tract infection	MILD	N	N	15-02-2026	16-02-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	6	
+042-S11-009	2	Diarrhoea	MILD	N	N	09-04-2026	17-04-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	6	
+042-S12-009	1	Back pain	MILD	N	N	13-05-2026	23-05-2026	RECOVERED	Back pain of mild severity, onset day 105, managed conservatively.	7	
+042-S02-010	1	Hypoglycaemia	MODERATE	N	N	16-01-2026	21-01-2026	RECOVERED	Subject reported hypoglycaemia on study day -6; moderate intensity, resolved after 5 days.	1	
+042-S02-010	2	Headache	MILD	N	N	07-04-2026	08-04-2026	RECOVERED	Investigator assessed headache as mild; no change to study drug; recovered.	5	
+042-S03-010	1	Diarrhoea	MILD	N	N	07-Apr-26	15-Apr-26	RECOVERED	Diarrhoea of mild severity, onset day 75, managed conservatively.	5	
+042-S04-010	1	Urinary tract infection	MODERATE	N	N	22-02-2026	01-03-2026	RECOVERED	Investigator assessed urinary tract infection as moderate; no change to study drug; recovered.	3	
+042-S05-010	1	Headache	MILD	N	N	27-03-2026	05-04-2026	RECOVERED	Subject reported headache on study day 64; mild intensity, resolved after 9 days.	5	
+042-S05-010	2	Nausea	MILD	N	N	12-05-2026	15-05-2026	RECOVERED	Investigator assessed nausea as mild; no change to study drug; recovered.	7	
+042-S06-010	1	Hypoglycaemia	MODERATE	N	N	14-02-2026	20-02-2026	RECOVERED	Hypoglycaemia of moderate severity, onset day 23, managed conservatively.	2	
+042-S07-010	1	Headache	MILD	N	N	01-04-2026	02-04-2026	RECOVERED	Headache (mild) noted at follow-up call; duration 1 days.	5	
+042-S08-010	1	Dizziness	MILD	N	N	01-04-2026	08-04-2026	RECOVERED	Investigator assessed dizziness as mild; no change to study drug; recovered.	8	
+042-S08-010	2	Upper respiratory tract infection	MILD	N	N	03-02-2026	05-02-2026	RECOVERED	Subject reported upper respiratory tract infection on study day 6; mild intensity, resolved after 2 days.	5	
+042-S08-010	3	Upper respiratory tract infection	MILD	N	N	15-04-2026	20-04-2026	RECOVERED	Upper respiratory tract infection of mild severity, onset day 77, managed conservatively.	9	
+042-S09-010	1	Fatigue	MILD	N	N	15-01-2026	20-01-2026	RECOVERED	Subject reported fatigue on study day -7; mild intensity, resolved after 5 days.	1	
+042-S10-010	1	Hypoglycaemia	MODERATE	N	N	07-05-2026	14-05-2026	RECOVERED	Hypoglycaemia (moderate) noted at follow-up call; duration 7 days.	7	
+042-S11-010	1	Headache	MILD	N	N	08-06-2026	12-06-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	9	
+042-S11-010	2	Back pain	MILD	N	N	19-06-2026	02-07-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	9	
+042-S11-010	3	Headache	MILD	N	N	26-01-2026	01-02-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	6	
+042-S12-010	1	Hypoglycaemia	MODERATE	N	N	07-06-2026	14-06-2026	RECOVERED	Investigator assessed hypoglycaemia as moderate; no change to study drug; recovered.	9	
+042-S12-010	2	Diarrhoea	MILD	N	N	30-03-2026	04-04-2026	RECOVERED	Diarrhoea (mild) noted at follow-up call; duration 5 days.	5	
+042-S01-011	1	Rash	MILD	N	N	24-04-2026	30-04-2026	RECOVERED	Investigator assessed rash as mild; no change to study drug; recovered.	6	
+042-S01-011	2	Rash	MILD	N	N	25-01-2026	08-02-2026	RECOVERED	Investigator assessed rash as mild; no change to study drug; recovered.	1	
+042-S02-011	1	Dizziness	MILD	N	N	18-03-2026	19-03-2026	RECOVERED	Subject reported dizziness on study day 45; mild intensity, resolved after 1 days.	4	
+042-S03-011	1	Rash	MILD	N	N	10-Feb-26	20-Feb-26	RECOVERED	Investigator assessed rash as mild; no change to study drug; recovered.	2	
+042-S04-011	1	Headache	MILD	N	N	23-02-2026	07-03-2026	RECOVERED	Headache (mild) noted at follow-up call; duration 12 days.	3	
+042-S04-011	2	Diarrhoea	MILD	N	N	19-04-2026	25-04-2026	RECOVERED	Investigator assessed diarrhoea as mild; no change to study drug; recovered.	6	
+042-S06-011	1	Urinary tract infection	MODERATE	N	N	22-02-2026	01-03-2026	RECOVERED	Urinary tract infection of moderate severity, onset day 32, managed conservatively.	3	
+042-S06-011	2	Rash	MILD	N	N	06-06-2026	08-06-2026	RECOVERED	Rash (mild) noted at follow-up call; duration 2 days.	9	
+042-S08-011	1	Headache	MILD	N	N	27-03-2026	08-04-2026	RECOVERED	Headache of mild severity, onset day 57, managed conservatively.	8	
+042-S09-011	1	Hypoglycaemia	MODERATE	N	N	09-04-2026	22-04-2026	RECOVERED	Hypoglycaemia of moderate severity, onset day 74, managed conservatively.	5	
+042-S09-011	2	Hypoglycaemia	MODERATE	N	N	15-06-2026	22-06-2026	RECOVERED	Subject reported hypoglycaemia on study day 141; moderate intensity, resolved after 7 days.	9	
+042-S09-011	3	Nausea	MILD	N	N	16-02-2026	21-02-2026	RECOVERED	Nausea of mild severity, onset day 22, managed conservatively.	2	
+042-S10-011	1	Urinary tract infection	MODERATE	N	N	10-02-2026	22-02-2026	RECOVERED	Urinary tract infection of moderate severity, onset day 28, managed conservatively.	2	
+042-S10-011	2	Nausea	MILD	N	N	10-04-2026	24-04-2026	RECOVERED	Nausea of mild severity, onset day 87, managed conservatively.	5	
+042-S10-011	3	Diarrhoea	MILD	N	N	21-04-2026	24-04-2026	RECOVERED	Diarrhoea of mild severity, onset day 98, managed conservatively.	6	
+042-S12-011	1	Rash	MILD	N	N	06-02-2026	11-02-2026	RECOVERED	Investigator assessed rash as mild; no change to study drug; recovered.	2	
+042-S12-011	2	Urinary tract infection	MODERATE	N	N	11-05-2026	17-05-2026	RECOVERED	Investigator assessed urinary tract infection as moderate; no change to study drug; recovered.	7	
+042-S12-011	3	Dizziness	MILD	N	N	03-04-2026	11-04-2026	RECOVERED	Dizziness (mild) noted at follow-up call; duration 8 days.	5	
+042-S01-012	1	Dizziness	MILD	N	N	05-04-2026	17-04-2026	RECOVERED	Subject reported dizziness on study day 75; mild intensity, resolved after 12 days.	5	
+042-S03-012	1	Back pain	MILD	N	N	04-Mar-26	09-Mar-26	RECOVERED	Investigator assessed back pain as mild; no change to study drug; recovered.	3	
+042-S04-012	1	Back pain	MILD	N	N	25-01-2026	26-01-2026	RECOVERED	Investigator assessed back pain as mild; no change to study drug; recovered.	1	
+042-S05-012	1	Upper respiratory tract infection	MILD	N	N	07-03-2026	17-03-2026	RECOVERED	Investigator assessed upper respiratory tract infection as mild; no change to study drug; recovered.	4	
+042-S05-012	2	Upper respiratory tract infection	MILD	N	N	02-04-2026	12-04-2026	RECOVERED	Upper respiratory tract infection (mild) noted at follow-up call; duration 10 days.	5	
+042-S06-012	1	Back pain	MILD	N	N	16-04-2026	27-04-2026	RECOVERED	Investigator assessed back pain as mild; no change to study drug; recovered.	6	
+042-S07-012	1	Dizziness	MILD	N	N	23-02-2026	25-02-2026	RECOVERED	Investigator assessed dizziness as mild; no change to study drug; recovered.	3	
+042-S09-012	1	Rash	MILD	N	N	09-04-2026	17-04-2026	RECOVERED	Rash (mild) noted at follow-up call; duration 8 days.	5	
+042-S09-012	2	Urinary tract infection	MODERATE	N	N	29-06-2026	01-07-2026	RECOVERED	Investigator assessed urinary tract infection as moderate; no change to study drug; recovered.	10	
+042-S10-012	1	Headache	MILD	N	N	24-01-2026	05-02-2026	RECOVERED	Subject reported headache on study day -6; mild intensity, resolved after 12 days.	1	
+042-S11-012	1	Diarrhoea	MILD	N	N	22-04-2026	01-05-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	6	
+042-S01-013	1	Hypoglycaemia	MODERATE	N	N	16-06-2026	28-06-2026	RECOVERED	Hypoglycaemia of moderate severity, onset day 137, managed conservatively.	9	
+042-S01-013	2	Upper respiratory tract infection	MILD	N	N	27-04-2026	08-05-2026	RECOVERED	Investigator assessed upper respiratory tract infection as mild; no change to study drug; recovered.	6	
+042-S02-013	1	Dizziness	MILD	N	N	29-01-2026	01-02-2026	RECOVERED	Dizziness (mild) noted at follow-up call; duration 3 days.	1	
+042-S02-013	2	Upper respiratory tract infection	MILD	N	N	30-01-2026	31-01-2026	RECOVERED	Upper respiratory tract infection of mild severity, onset day 15, managed conservatively.	2	
+042-S03-013	1	Upper respiratory tract infection	MILD	N	N	25-Jun-26	09-Jul-26	RECOVERED	Upper respiratory tract infection (mild) noted at follow-up call; duration 14 days.	10	
+042-S03-013	2	Diarrhoea	MILD	N	N	30-Jun-26	01-Jul-26	RECOVERED	Investigator assessed diarrhoea as mild; no change to study drug; recovered.	10	
+042-S04-013	1	Dizziness	MILD	N	N	10-04-2026	20-04-2026	RECOVERED	Dizziness of mild severity, onset day 88, managed conservatively.	5	
+042-S05-013	1	Nausea	MILD	N	N	14-04-2026	22-04-2026	RECOVERED	Investigator assessed nausea as mild; no change to study drug; recovered.	6	
+042-S05-013	2	Headache	MILD	N	N	19-06-2026	22-06-2026	RECOVERED	Headache (mild) noted at follow-up call; duration 3 days.	9	
+042-S06-013	1	Hypoglycaemia	MODERATE	N	N	18-02-2026	22-02-2026	RECOVERED	Hypoglycaemia (moderate) noted at follow-up call; duration 4 days.	3	
+042-S07-013	1	Back pain	MILD	N	N	03-06-2026	16-06-2026	RECOVERED	Back pain (mild) noted at follow-up call; duration 13 days.	8	
+042-S08-013	1	Upper respiratory tract infection	MILD	N	N	07-04-2026	20-04-2026	RECOVERED	Subject reported upper respiratory tract infection on study day 75; mild intensity, resolved after 13 days.	8	
+042-S08-013	2	Back pain	MILD	N	N	06-06-2026	18-06-2026	RECOVERED	Back pain (mild) noted at follow-up call; duration 12 days.	12	
+042-S09-013	1	Back pain	MILD	N	N	10-01-2026	15-01-2026	RECOVERED	Investigator assessed back pain as mild; no change to study drug; recovered.	1	
+042-S09-013	2	Dizziness	MILD	N	N	21-04-2026	24-04-2026	RECOVERED	Investigator assessed dizziness as mild; no change to study drug; recovered.	6	
+042-S10-013	1	Fatigue	MILD	N	N	09-04-2026	11-04-2026	RECOVERED	Investigator assessed fatigue as mild; no change to study drug; recovered.	5	
+042-S11-013	1	Diarrhoea	MILD	N	N	17-05-2026	29-05-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	7	
+042-S12-013	1	Rash	MILD	N	N	21-05-2026	01-06-2026	RECOVERED	Investigator assessed rash as mild; no change to study drug; recovered.	8	
+042-S01-014	1	Urinary tract infection	MODERATE	N	N	07-04-2026	11-04-2026	RECOVERED	Urinary tract infection (moderate) noted at follow-up call; duration 4 days.	5	
+042-S03-014	1	Headache	MILD	N	N	13-Apr-26	24-Apr-26	RECOVERED	Subject reported headache on study day 75; mild intensity, resolved after 11 days.	6	
+042-S05-014	1	Rash	MILD	N	N	19-02-2026	25-02-2026	RECOVERED	Subject reported rash on study day 29; mild intensity, resolved after 6 days.	3	
+042-S06-014	1	Rash	MILD	N	N	02-03-2026	06-03-2026	RECOVERED	Rash of mild severity, onset day 37, managed conservatively.	3	
+042-S06-014	2	Fatigue	MILD	N	N	17-02-2026	21-02-2026	RECOVERED	Investigator assessed fatigue as mild; no change to study drug; recovered.	3	
+042-S08-014	1	Headache	MILD	N	N	22-06-2026	06-07-2026	RECOVERED	Subject reported headache on study day 152; mild intensity, resolved after 14 days.	12	
+042-S08-014	2	Diarrhoea	MILD	N	N	25-06-2026	01-07-2026	RECOVERED	Diarrhoea (mild) noted at follow-up call; duration 6 days.	13	
+042-S09-014	1	Hypoglycaemia	MODERATE	N	N	29-05-2026	07-06-2026	RECOVERED	Hypoglycaemia (moderate) noted at follow-up call; duration 9 days.	8	
+042-S09-014	2	Hypoglycaemia	MODERATE	N	N	26-04-2026	04-05-2026	RECOVERED	Hypoglycaemia (moderate) noted at follow-up call; duration 8 days.	6	
+042-S09-014	3	Urinary tract infection	MODERATE	N	N	24-05-2026	01-06-2026	RECOVERED	Subject reported urinary tract infection on study day 118; moderate intensity, resolved after 8 days.	8	
+042-S09-014	4	Hypoglycaemia	MODERATE	N	N	04-03-2026	16-03-2026	RECOVERED	Hypoglycaemia of moderate severity, onset day 37, managed conservatively.	3	
+042-S10-014	1	Dizziness	MILD	N	N	14-06-2026	21-06-2026	RECOVERED	Investigator assessed dizziness as mild; no change to study drug; recovered.	9	
+042-S11-014	1	Upper respiratory tract infection	MILD	N	N	18-06-2026	25-06-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	9	
+042-S11-014	2	Dizziness	MILD	N	N	27-06-2026	08-07-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	10	
+042-S02-015	1	Urinary tract infection	MODERATE	N	N	20-01-2026	27-01-2026	RECOVERED	Investigator assessed urinary tract infection as moderate; no change to study drug; recovered.	1	
+042-S03-015	1	Nausea	MILD	N	N	31-Mar-26	14-Apr-26	RECOVERED	Investigator assessed nausea as mild; no change to study drug; recovered.	5	
+042-S03-015	2	Hypoglycaemia	MODERATE	N	N	17-Apr-26	30-Apr-26	RECOVERED	Investigator assessed hypoglycaemia as moderate; no change to study drug; recovered.	6	
+042-S05-015	1	Diarrhoea	MILD	N	N	28-04-2026	06-05-2026	RECOVERED	Subject reported diarrhoea on study day 95; mild intensity, resolved after 8 days.	6	
+042-S07-015	1	Fatigue	MILD	N	N	19-02-2026	04-03-2026	RECOVERED	Investigator assessed fatigue as mild; no change to study drug; recovered.	3	
+042-S07-015	2	Back pain	MILD	N	N	21-02-2026	28-02-2026	RECOVERED	Subject reported back pain on study day 27; mild intensity, resolved after 7 days.	3	
+042-S07-015	3	Upper respiratory tract infection	MILD	N	N	13-03-2026	20-03-2026	RECOVERED	Subject reported upper respiratory tract infection on study day 47; mild intensity, resolved after 7 days.	4	
+042-S08-015	1	Hypoglycaemia	MODERATE	N	N	25-02-2026	28-02-2026	RECOVERED	Investigator assessed hypoglycaemia as moderate; no change to study drug; recovered.	6	
+042-S09-015	1	Rash	MILD	N	N	10-05-2026	18-05-2026	RECOVERED	Subject reported rash on study day 99; mild intensity, resolved after 8 days.	7	
+042-S09-015	2	Headache	MILD	N	N	15-05-2026	22-05-2026	RECOVERED	Investigator assessed headache as mild; no change to study drug; recovered.	7	
+042-S11-015	1	Back pain	MILD	N	N	01-04-2026	10-04-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	6	
+042-S11-015	2	Nausea	MILD	N	N	30-03-2026	12-04-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	6	
+042-S11-015	3	Back pain	MILD	N	N	16-02-2026	27-02-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	6	
+042-S12-015	1	Back pain	MILD	N	N	06-07-2026	12-07-2026	RECOVERED	Subject reported back pain on study day 157; mild intensity, resolved after 6 days.	10	
+042-S02-016	1	Headache	MILD	N	N	09-03-2026	10-03-2026	RECOVERED	Investigator assessed headache as mild; no change to study drug; recovered.	4	
+042-S02-016	2	Headache	MILD	N	N	09-04-2026	11-04-2026	RECOVERED	Subject reported headache on study day 70; mild intensity, resolved after 2 days.	5	
+042-S03-016	1	Hypoglycaemia	MODERATE	N	N	18-Jan-26	29-Jan-26	RECOVERED	Hypoglycaemia of moderate severity, onset day -4, managed conservatively.	1	
+042-S04-016	1	Back pain	MILD	N	N	11-03-2026	17-03-2026	RECOVERED	Investigator assessed back pain as mild; no change to study drug; recovered.	4	
+042-S04-016	2	Fatigue	MILD	N	N	17-03-2026	18-03-2026	RECOVERED	Investigator assessed fatigue as mild; no change to study drug; recovered.	4	
+042-S06-016	1	Dizziness	MILD	N	N	20-04-2026	01-05-2026	RECOVERED	Dizziness (mild) noted at follow-up call; duration 11 days.	6	
+042-S07-016	1	Fatigue	MILD	N	N	24-01-2026	30-01-2026	RECOVERED	Fatigue (mild) noted at follow-up call; duration 6 days.	1	
+042-S07-016	2	Dizziness	MILD	N	N	04-02-2026	17-02-2026	RECOVERED	Dizziness (mild) noted at follow-up call; duration 13 days.	2	
+042-S08-016	1	Urinary tract infection	MODERATE	N	N	08-06-2026	14-06-2026	RECOVERED	Subject reported urinary tract infection on study day 136; moderate intensity, resolved after 6 days.	12	
+042-S09-016	1	Back pain	MILD	N	N	06-03-2026	11-03-2026	RECOVERED	Subject reported back pain on study day 48; mild intensity, resolved after 5 days.	3	
+042-S10-016	1	Urinary tract infection	MODERATE	N	N	24-02-2026	28-02-2026	RECOVERED	Subject reported urinary tract infection on study day 34; moderate intensity, resolved after 4 days.	3	
+042-S10-016	2	Back pain	MILD	N	N	12-02-2026	21-02-2026	RECOVERED	Back pain (mild) noted at follow-up call; duration 9 days.	2	
+042-S11-016	1	Headache	MILD	N	N	29-05-2026	03-06-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	8	
+042-S12-016	1	Rash	MILD	N	N	22-03-2026	28-03-2026	RECOVERED	Subject reported rash on study day 69; mild intensity, resolved after 6 days.	4	
+042-S12-016	2	Nausea	MILD	N	N	03-04-2026	07-04-2026	RECOVERED	Nausea of mild severity, onset day 81, managed conservatively.	5	
+042-S01-017	1	Pneumonia	SEVERE	Y	Y	02-06-2026	15-06-2026	RECOVERED	Pneumonia (severe) noted at follow-up call; duration 13 days.	8	
+042-S01-017	2	Nausea	MILD	N	N	18-05-2026	22-05-2026	RECOVERED	Investigator assessed nausea as mild; no change to study drug; recovered.	8	
+042-S02-017	1	Dizziness	MILD	N	N	30-04-2026	13-05-2026	RECOVERED	Subject reported dizziness on study day 88; mild intensity, resolved after 13 days.	7	
+042-S02-017	2	Urinary tract infection	MODERATE	N	N	03-03-2026	15-03-2026	RECOVERED	Subject reported urinary tract infection on study day 30; moderate intensity, resolved after 12 days.	3	
+042-S03-017	1	Rash	MILD	N	N	16-Jun-26	19-Jun-26	RECOVERED	Rash (mild) noted at follow-up call; duration 3 days.	9	
+042-S04-017	1	Diarrhoea	MILD	N	N	04-04-2026	11-04-2026	RECOVERED	Subject reported diarrhoea on study day 75; mild intensity, resolved after 7 days.	5	
+042-S08-017	1	Rash	MILD	N	N	27-06-2026	08-07-2026	RECOVERED	Subject reported rash on study day 160; mild intensity, resolved after 11 days.	13	
+042-S08-017	2	Upper respiratory tract infection	MILD	N	N	15-04-2026	29-04-2026	RECOVERED	Investigator assessed upper respiratory tract infection as mild; no change to study drug; recovered.	9	
+042-S09-017	1	Upper respiratory tract infection	MILD	N	N	27-05-2026	01-06-2026	RECOVERED	Upper respiratory tract infection of mild severity, onset day 123, managed conservatively.	8	
+042-S10-017	1	Headache	MILD	N	N	28-04-2026	04-05-2026	RECOVERED	Headache (mild) noted at follow-up call; duration 6 days.	6	
+042-S11-017	1	Urinary tract infection	MODERATE	N	N	19-03-2026	22-03-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	6	
+042-S12-017	1	Hypoglycaemia	MODERATE	N	N	24-06-2026	28-06-2026	RECOVERED	Subject reported hypoglycaemia on study day 150; moderate intensity, resolved after 4 days.	10	
+042-S01-018	1	Upper respiratory tract infection	MILD	N	N	29-05-2026	03-06-2026	RECOVERED	Upper respiratory tract infection of mild severity, onset day 129, managed conservatively.	8	
+042-S02-018	1	Rash	MILD	N	N	31-05-2026	02-06-2026	RECOVERED	Investigator assessed rash as mild; no change to study drug; recovered.	8	
+042-S02-018	2	Back pain	MILD	N	N	06-04-2026	09-04-2026	RECOVERED	Investigator assessed back pain as mild; no change to study drug; recovered.	5	
+042-S03-018	1	Dizziness	MILD	N	N	10-Feb-26	22-Feb-26	RECOVERED	Dizziness (mild) noted at follow-up call; duration 12 days.	2	
+042-S03-018	2	Fatigue	MILD	N	N	01-May-26	09-May-26	RECOVERED	Subject reported fatigue on study day 99; mild intensity, resolved after 8 days.	7	
+042-S04-018	1	Headache	MILD	N	N	29-04-2026	08-05-2026	RECOVERED	Subject reported headache on study day 102; mild intensity, resolved after 9 days.	6	
+042-S05-018	1	Diarrhoea	MILD	N	N	06-03-2026	12-03-2026	RECOVERED	Investigator assessed diarrhoea as mild; no change to study drug; recovered.	3	
+042-S06-018	1	Diarrhoea	MILD	N	N	13-03-2026	16-03-2026	RECOVERED	Subject reported diarrhoea on study day 50; mild intensity, resolved after 3 days.	4	
+042-S08-018	1	Urinary tract infection	MODERATE	N	N	25-02-2026	03-03-2026	RECOVERED	Urinary tract infection of moderate severity, onset day 31, managed conservatively.	6	
+042-S09-018	1	Fatigue	MILD	N	N	23-02-2026	03-03-2026	RECOVERED	Investigator assessed fatigue as mild; no change to study drug; recovered.	3	
+042-S10-018	1	Urinary tract infection	MODERATE	N	N	04-05-2026	07-05-2026	RECOVERED	Urinary tract infection (moderate) noted at follow-up call; duration 3 days.	7	
+042-S11-018	1	Upper respiratory tract infection	MILD	N	N	26-03-2026	28-03-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	6	
+042-S12-018	1	Urinary tract infection	MODERATE	N	N	02-04-2026	14-04-2026	RECOVERED	Urinary tract infection (moderate) noted at follow-up call; duration 12 days.	5	
+042-S12-018	2	Fatigue	MILD	N	N	13-06-2026	25-06-2026	RECOVERED	Fatigue of mild severity, onset day 132, managed conservatively.	9	
+042-S02-019	1	Headache	MILD	N	N	15-03-2026	29-03-2026	RECOVERED	Headache of mild severity, onset day 55, managed conservatively.	4	
+042-S02-019	2	Upper respiratory tract infection	MILD	N	N	16-02-2026	19-02-2026	RECOVERED	Investigator assessed upper respiratory tract infection as mild; no change to study drug; recovered.	2	
+042-S02-019	3	Back pain	MILD	N	N	26-02-2026	01-03-2026	RECOVERED	Back pain of mild severity, onset day 38, managed conservatively.	3	
+042-S03-019	1	Rash	MILD	N	N	20-Mar-26	31-Mar-26	RECOVERED	Investigator assessed rash as mild; no change to study drug; recovered.	4	
+042-S03-019	2	Dizziness	MILD	N	N	15-Mar-26	25-Mar-26	RECOVERED	Dizziness of mild severity, onset day 42, managed conservatively.	4	
+042-S04-019	1	Urinary tract infection	MODERATE	N	N	21-05-2026	31-05-2026	RECOVERED	Subject reported urinary tract infection on study day 120; moderate intensity, resolved after 10 days.	8	
+042-S05-019	1	Diarrhoea	MILD	N	N	04-04-2026	17-04-2026	RECOVERED	Investigator assessed diarrhoea as mild; no change to study drug; recovered.	5	
+042-S06-019	1	Headache	MILD	N	N	04-02-2026	16-02-2026	RECOVERED	Headache of mild severity, onset day 11, managed conservatively.	2	
+042-S06-019	2	Diarrhoea	MILD	N	N	26-04-2026	30-04-2026	RECOVERED	Investigator assessed diarrhoea as mild; no change to study drug; recovered.	6	
+042-S08-019	1	Urinary tract infection	MODERATE	N	N	04-04-2026	11-04-2026	RECOVERED	Investigator assessed urinary tract infection as moderate; no change to study drug; recovered.	8	
+042-S09-019	1	Back pain	MILD	N	N	05-03-2026	08-03-2026	RECOVERED	Subject reported back pain on study day 34; mild intensity, resolved after 3 days.	3	
+042-S09-019	2	Hypoglycaemia	MODERATE	N	N	03-07-2026	13-07-2026	RECOVERED	Hypoglycaemia of moderate severity, onset day 154, managed conservatively.	10	
+042-S10-019	1	Headache	MILD	N	N	22-03-2026	26-03-2026	RECOVERED	Headache of mild severity, onset day 63, managed conservatively.	4	
+042-S11-019	1	Urinary tract infection	MODERATE	N	N	26-04-2026	01-05-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	6	
+042-S12-019	1	Upper respiratory tract infection	MILD	N	N	23-04-2026	26-04-2026	RECOVERED	Upper respiratory tract infection of mild severity, onset day 101, managed conservatively.	6	
+042-S02-020	1	Dizziness	MILD	N	N	31-05-2026	09-06-2026	RECOVERED	Dizziness (mild) noted at follow-up call; duration 9 days.	8	
+042-S03-020	1	Diarrhoea	MILD	N	N	31-Mar-26	04-Apr-26	RECOVERED	Diarrhoea (mild) noted at follow-up call; duration 4 days.	5	
+042-S04-020	1	Headache	MILD	N	N	10-05-2026	20-05-2026	RECOVERED	Subject reported headache on study day 111; mild intensity, resolved after 10 days.	7	
+042-S04-020	2	Fatigue	MILD	N	N	05-02-2026	19-02-2026	RECOVERED	Fatigue of mild severity, onset day 17, managed conservatively.	2	
+042-S05-020	1	Dizziness	MILD	N	N	14-05-2026	16-05-2026	RECOVERED	Dizziness (mild) noted at follow-up call; duration 2 days.	7	
+042-S07-020	1	Hypoglycaemia	MODERATE	N	N	25-04-2026	01-05-2026	RECOVERED	Subject reported hypoglycaemia on study day 90; moderate intensity, resolved after 6 days.	6	
+042-S08-020	1	Diarrhoea	MILD	N	N	24-04-2026	30-04-2026	RECOVERED	Diarrhoea (mild) noted at follow-up call; duration 6 days.	9	
+042-S10-020	1	Diarrhoea	MILD	N	N	05-06-2026	18-06-2026	RECOVERED	Investigator assessed diarrhoea as mild; no change to study drug; recovered.	9	
+042-S11-020	1	Fatigue	MILD	N	N	14-03-2026	21-03-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	6	
+042-S11-020	2	Hypoglycaemia	MODERATE	N	N	14-05-2026	19-05-2026	RECOVERED	Event reported by subject. Resolved without treatment. No action taken.	7	
+042-S12-020	1	Nausea	MILD	N	N	14-03-2026	18-03-2026	RECOVERED	Nausea of mild severity, onset day 49, managed conservatively.	4	
+USUBJID	CMSEQ	CMTRT	CMCLAS	CMINDC	CMSTDTC	CMDOSE	cut_available	corrected_at_cut
+042-S01-001	1	Lisinopril	ACE_INHIBITOR	Reflux	15-01-2026	5	1	
+042-S01-001	2	Lisinopril	ACE_INHIBITOR	Reflux	18-01-2026	5	1	
+042-S02-001	1	Lisinopril	ACE_INHIBITOR	Inflammation	18-04-2026	1000	6	
+042-S02-001	2	Omeprazole	PPI	Reflux	13-04-2026	1000	6	
+042-S03-001	1	Metformin	ANTIDIABETIC	Hyperlipidaemia	03-Mar-26	5	3	
+042-S04-001	1	Paracetamol	ANALGESIC	Pain	15-03-2026	5	4	
+042-S05-001	1	Atorvastatin	STATIN	Reflux	16-03-2026	10	4	
+042-S06-001	1	Lisinopril	ACE_INHIBITOR	Headache	19-03-2026	20	4	
+042-S06-001	2	Amlodipine	CCB	Headache	30-03-2026	1000	5	
+042-S07-001	1	Glibenclamide	SULFONYLUREA	Hyperlipidaemia	20-03-2026	1000	4	
+042-S07-001	2	Amlodipine	CCB	Inflammation	12-02-2026	500	2	
+042-S07-001	3	Omeprazole	PPI	Hypertension	25-04-2026	20	6	
+042-S08-001	1	Prednisolone	SYSTEMIC_GLUCOCORTICOID	Reflux	20-01-2026	1000	4	
+042-S08-001	2	Lisinopril	ACE_INHIBITOR	Reflux	06-03-2026	20	6	
+042-S08-001	3	Lisinopril	ACE_INHIBITOR	Reflux	23-03-2026	20	7	
+042-S09-001	1	Prednisolone	SYSTEMIC_GLUCOCORTICOID	Hypertension	05-05-2026	1000	7	
+042-S10-001	1	Metformin	ANTIDIABETIC	Reflux	01-03-2026	20	3	
+042-S11-001	1	Aspirin	ANTIPLATELET	Headache	16-01-2026	500	6	
+042-S12-001	1	Metformin	ANTIDIABETIC	Pain	15-04-2026	10	6	
+042-S12-001	2	Ibuprofen	NSAID	Headache	05-02-2026	20	2	
+042-S01-002	1	Omeprazole	PPI	Headache	17-12-2025	5	1	
+042-S01-002	2	Amlodipine	CCB	Hypertension	03-03-2026	10	3	
+042-S01-002	3	Paracetamol	ANALGESIC	Headache	01-04-2026	10	5	
+042-S02-002	1	Omeprazole	PPI	Pain	16-03-2026	5	4	
+042-S03-002	1	Metformin	ANTIDIABETIC	Inflammation	18-Mar-26	10	4	
+042-S03-002	2	Ibuprofen	NSAID	Pain	20-Mar-26	500	4	
+042-S04-002	1	Amlodipine	CCB	Inflammation	18-01-2026	1000	1	
+042-S04-002	2	Ibuprofen	NSAID	Headache	28-01-2026	1000	1	
+042-S05-002	1	Amlodipine	CCB	Inflammation	12-03-2026	1000	4	
+042-S06-002	1	Paracetamol	ANALGESIC	Headache	26-02-2026	10	3	
+042-S07-002	1	Atorvastatin	STATIN	Reflux	05-03-2026	1000	3	
+042-S08-002	1	Ibuprofen	NSAID	Back pain	22-02-2026	500	6	
+042-S08-002	2	Paracetamol	ANALGESIC	Headache	30-01-2026	500	5	
+042-S08-002	3	Metformin	ANTIDIABETIC	Hyperlipidaemia	07-02-2026	500	5	
+042-S09-002	1	Paracetamol	ANALGESIC	Headache	08-04-2026	10	5	
+042-S10-002	1	Lisinopril	ACE_INHIBITOR	Reflux	13-03-2026	10	4	
+042-S10-002	2	Lisinopril	ACE_INHIBITOR	Inflammation	01-01-2026	500	1	
+042-S11-002	1	Prednisolone	SYSTEMIC_GLUCOCORTICOID	Hypertension	16-04-2026	10	6	
+042-S12-002	1	Prednisolone	SYSTEMIC_GLUCOCORTICOID	Hyperlipidaemia	13-01-2026	10	1	
+042-S12-002	2	Omeprazole	PPI	Headache	16-04-2026	10	6	
+042-S01-003	1	Amlodipine	CCB	Inflammation	18-04-2026	1000	6	
+042-S01-003	2	Amlodipine	CCB	Hyperlipidaemia	07-02-2026	1000	2	
+042-S01-003	3	Amlodipine	CCB	Hyperlipidaemia	17-04-2026	20	6	
+042-S02-003	1	Atorvastatin	STATIN	Hypertension	09-02-2026	500	2	
+042-S02-003	2	Aspirin	ANTIPLATELET	Reflux	14-01-2026	1000	1	
+042-S03-003	1	Metformin	ANTIDIABETIC	Hypertension	18-Apr-26	5	6	
+042-S03-003	2	Aspirin	ANTIPLATELET	Hypertension	11-May-26	500	7	
+042-S03-003	3	Amlodipine	CCB	Inflammation	04-May-26	5	7	
+042-S04-003	1	Aspirin	ANTIPLATELET	Hyperlipidaemia	03-04-2026	20	5	
+042-S04-003	2	Lisinopril	ACE_INHIBITOR	Inflammation	05-04-2026	500	5	
+042-S04-003	3	Lisinopril	ACE_INHIBITOR	Pain	09-01-2026	10	1	
+042-S05-003	1	Omeprazole	PPI	Headache	06-02-2026	10	2	
+042-S06-003	1	Ibuprofen	NSAID	Back pain	18-01-2026	5	1	
+042-S06-003	2	Amlodipine	CCB	Pain	06-02-2026	5	2	
+042-S07-003	1	Ibuprofen	NSAID	Headache	21-03-2026	20	4	
+042-S07-003	2	Aspirin	ANTIPLATELET	Reflux	07-02-2026	500	2	
+042-S07-003	3	Metformin	ANTIDIABETIC	Pain	17-02-2026	5	3	
+042-S08-003	1	Aspirin	ANTIPLATELET	Inflammation	27-02-2026	5	6	
+042-S08-003	2	Metformin	ANTIDIABETIC	Reflux	17-04-2026	20	9	
+042-S09-003	1	Paracetamol	ANALGESIC	Pain	08-01-2026	1000	1	
+042-S09-003	2	Paracetamol	ANALGESIC	Headache	15-03-2026	10	4	
+042-S09-003	3	Amlodipine	CCB	Hypertension	28-03-2026	5	5	
+042-S10-003	1	Lisinopril	ACE_INHIBITOR	Reflux	25-12-2025	500	1	
+042-S11-003	1	Atorvastatin	STATIN	Hypertension	28-03-2026	1000	6	
+042-S12-003	1	Omeprazole	PPI	Hyperlipidaemia	02-04-2026	10	5	
+042-S01-004	1	Paracetamol	ANALGESIC	Headache	08-02-2026	10	2	
+042-S01-004	2	Paracetamol	ANALGESIC	Back pain	25-03-2026	10	5	
+042-S02-004	1	Aspirin	ANTIPLATELET	Inflammation	31-03-2026	1000	5	
+042-S03-004	1	Metformin	ANTIDIABETIC	Reflux	08-Apr-26	1000	5	
+042-S03-004	2	Aspirin	ANTIPLATELET	Reflux	14-Jan-26	1000	1	
+042-S04-004	1	Metformin	ANTIDIABETIC	Reflux	20-04-2026	500	6	
+042-S04-004	2	Metformin	ANTIDIABETIC	Hypertension	24-03-2026	1000	4	
+042-S05-004	1	Lisinopril	ACE_INHIBITOR	Pain	24-02-2026	20	3	
+042-S06-004	1	Atorvastatin	STATIN	Reflux	22-04-2026	10	6	
+042-S06-004	2	Metformin	ANTIDIABETIC	Headache	27-01-2026	10	1	
+042-S06-004	3	Atorvastatin	STATIN	Hypertension	21-02-2026	5	3	
+042-S07-004	1	Paracetamol	ANALGESIC	Back pain	01-01-2026	20	1	
+042-S08-004	1	Atorvastatin	STATIN	Hypertension	03-05-2026	500	10	
+042-S08-004	2	Atorvastatin	STATIN	Inflammation	02-05-2026	5	10	
+042-S09-004	1	Amlodipine	CCB	Reflux	08-04-2026	1000	5	
+042-S09-004	2	Paracetamol	ANALGESIC	Headache	26-03-2026	20	5	
+042-S10-004	1	Lisinopril	ACE_INHIBITOR	Hyperlipidaemia	24-03-2026	5	4	
+042-S10-004	2	Lisinopril	ACE_INHIBITOR	Inflammation	10-04-2026	20	5	
+042-S10-004	3	Omeprazole	PPI	Headache	16-04-2026	500	6	
+042-S11-004	1	Metformin	ANTIDIABETIC	Reflux	28-01-2026	500	6	
+042-S11-004	2	Ibuprofen	NSAID	Back pain	07-01-2026	500	6	
+042-S12-004	1	Aspirin	ANTIPLATELET	Hypertension	23-03-2026	1000	4	
+042-S01-005	1	Atorvastatin	STATIN	Hyperlipidaemia	19-04-2026	500	6	
+042-S01-005	2	Ibuprofen	NSAID	Back pain	18-01-2026	5	1	
+042-S01-005	3	Omeprazole	PPI	Inflammation	16-01-2026	10	1	
+042-S02-005	1	Ibuprofen	NSAID	Pain	29-03-2026	20	5	
+042-S02-005	2	Lisinopril	ACE_INHIBITOR	Headache	23-12-2025	1000	1	
+042-S03-005	1	Paracetamol	ANALGESIC	Pain	06-May-26	20	7	
+042-S04-005	1	Metformin	ANTIDIABETIC	Headache	01-02-2026	10	2	
+042-S04-005	2	Amlodipine	CCB	Hypertension	17-04-2026	500	6	
+042-S05-005	1	Paracetamol	ANALGESIC	Pain	31-01-2026	1000	2	
+042-S06-005	1	Ibuprofen	NSAID	Headache	30-04-2026	20	7	
+042-S06-005	2	Aspirin	ANTIPLATELET	Inflammation	07-03-2026	20	4	
+042-S06-005	3	Ibuprofen	NSAID	Back pain	26-02-2026	1000	3	
+042-S07-005	1	Paracetamol	ANALGESIC	Headache	15-02-2026	500	2	
+042-S08-005	1	Glibenclamide	SULFONYLUREA	Reflux	21-03-2026	10	7	
+042-S08-005	2	Lisinopril	ACE_INHIBITOR	Pain	24-03-2026	5	7	
+042-S08-005	3	Lisinopril	ACE_INHIBITOR	Inflammation	14-02-2026	10	5	
+042-S09-005	1	Prednisolone	SYSTEMIC_GLUCOCORTICOID	Hypertension	08-03-2026	500	4	
+042-S10-005	1	Ibuprofen	NSAID	Back pain	20-04-2026	500	6	
+042-S11-005	1	Amlodipine	CCB	Inflammation	19-03-2026	20	6	
+042-S11-005	2	Paracetamol	ANALGESIC	Back pain	24-03-2026	5	6	
+042-S12-005	1	Lisinopril	ACE_INHIBITOR	Inflammation	15-02-2026	5	2	
+042-S12-005	2	Atorvastatin	STATIN	Pain	15-02-2026	20	2	
+042-S01-006	1	Metformin	ANTIDIABETIC	Inflammation	10-04-2026	20	5	
+042-S01-006	2	Amlodipine	CCB	Headache	03-02-2026	1000	2	
+042-S01-006	3	Metformin	ANTIDIABETIC	Headache	02-03-2026	1000	3	
+042-S02-006	1	Aspirin	ANTIPLATELET	Headache	03-04-2026	500	5	
+042-S03-006	1	Metformin	ANTIDIABETIC	Pain	10-Mar-26	20	4	
+042-S03-006	2	Paracetamol	ANALGESIC	Headache	24-Apr-26	500	6	
+042-S03-006	3	Aspirin	ANTIPLATELET	Pain	24-Apr-26	5	6	
+042-S04-006	1	Aspirin	ANTIPLATELET	Reflux	05-04-2026	20	5	
+042-S04-006	2	Omeprazole	PPI	Hyperlipidaemia	20-12-2025	1000	1	
+042-S04-006	3	Amlodipine	CCB	Reflux	07-04-2026	10	5	
+042-S05-006	1	Atorvastatin	STATIN	Headache	30-03-2026	500	5	
+042-S06-006	1	Glibenclamide	SULFONYLUREA	Hyperlipidaemia	22-01-2026	20	1	
+042-S06-006	2	Lisinopril	ACE_INHIBITOR	Pain	09-01-2026	10	1	
+042-S07-006	1	Aspirin	ANTIPLATELET	Inflammation	20-03-2026	20	4	
+042-S08-006	1	Amlodipine	CCB	Reflux	15-04-2026	10	9	
+042-S09-006	1	Lisinopril	ACE_INHIBITOR	Reflux	26-02-2026	1000	3	
+042-S10-006	1	Omeprazole	PPI	Pain	19-03-2026	5	4	
+042-S10-006	2	Atorvastatin	STATIN	Reflux	10-03-2026	5	4	
+042-S11-006	1	Paracetamol	ANALGESIC	Pain	19-02-2026	10	6	
+042-S11-006	2	Paracetamol	ANALGESIC	Back pain	02-03-2026	5	6	
+042-S12-006	1	Amlodipine	CCB	Reflux	08-03-2026	5	4	
+042-S01-007	1	Aspirin	ANTIPLATELET	Headache	04-03-2026	10	3	
+042-S01-007	2	Lisinopril	ACE_INHIBITOR	Inflammation	28-04-2026	20	6	
+042-S02-007	1	Aspirin	ANTIPLATELET	Reflux	25-04-2026	1000	6	
+042-S02-007	2	Aspirin	ANTIPLATELET	Inflammation	17-03-2026	10	4	
+042-S02-007	3	Omeprazole	PPI	Pain	19-03-2026	10	4	
+042-S03-007	1	Metformin	ANTIDIABETIC	Reflux	03-Jan-26	5	1	
+042-S03-007	2	Omeprazole	PPI	Hypertension	24-Apr-26	10	6	
+042-S03-007	3	Metformin	ANTIDIABETIC	Headache	27-Jan-26	5	1	
+042-S04-007	1	Metformin	ANTIDIABETIC	Hypertension	20-02-2026	1000	3	
+042-S04-007	2	Omeprazole	PPI	Inflammation	10-02-2026	5	2	
+042-S04-007	3	Ibuprofen	NSAID	Back pain	05-01-2026	5	1	
+042-S05-007	1	Ibuprofen	NSAID	Back pain	02-02-2026	20	2	
+042-S05-007	2	Amlodipine	CCB	Hyperlipidaemia	26-03-2026	500	5	
+042-S06-007	1	Ibuprofen	NSAID	Pain	03-04-2026	1000	5	
+042-S06-007	2	Amlodipine	CCB	Inflammation	03-02-2026	1000	2	
+042-S07-007	1	Omeprazole	PPI	Hyperlipidaemia	13-01-2026	5	1	
+042-S07-007	2	Ibuprofen	NSAID	Headache	28-03-2026	5	5	
+042-S08-007	1	Atorvastatin	STATIN	Hypertension	14-02-2026	5	5	
+042-S08-007	2	Lisinopril	ACE_INHIBITOR	Hyperlipidaemia	15-02-2026	20	5	
+042-S08-007	3	Omeprazole	PPI	Hypertension	15-01-2026	10	4	
+042-S09-007	1	Paracetamol	ANALGESIC	Back pain	13-01-2026	1000	1	
+042-S09-007	2	Lisinopril	ACE_INHIBITOR	Reflux	06-05-2026	500	7	
+042-S09-007	3	Lisinopril	ACE_INHIBITOR	Headache	06-05-2026	20	7	
+042-S10-007	1	Amlodipine	CCB	Inflammation	30-03-2026	1000	5	
+042-S10-007	2	Amlodipine	CCB	Hyperlipidaemia	07-01-2026	10	1	
+042-S11-007	1	Lisinopril	ACE_INHIBITOR	Pain	23-01-2026	1000	6	
+042-S12-007	1	Paracetamol	ANALGESIC	Pain	22-01-2026	20	1	
+042-S12-007	2	Omeprazole	PPI	Headache	12-04-2026	20	6	
+042-S01-008	1	Paracetamol	ANALGESIC	Headache	01-03-2026	5	3	
+042-S02-008	1	Lisinopril	ACE_INHIBITOR	Pain	17-01-2026	5	1	
+042-S03-008	1	Lisinopril	ACE_INHIBITOR	Headache	19-Mar-26	10	4	
+042-S03-008	2	Ibuprofen	NSAID	Pain	12-Apr-26	5	6	
+042-S04-008	1	Omeprazole	PPI	Pain	15-03-2026	10	4	
+042-S04-008	2	Ibuprofen	NSAID	Back pain	03-02-2026	10	2	
+042-S04-008	3	Omeprazole	PPI	Hyperlipidaemia	16-01-2026	5	1	
+042-S05-008	1	Omeprazole	PPI	Reflux	30-04-2026	5	7	
+042-S06-008	1	Omeprazole	PPI	Pain	08-03-2026	5	4	
+042-S07-008	1	Aspirin	ANTIPLATELET	Reflux	27-02-2026	1000	3	
+042-S08-008	1	Lisinopril	ACE_INHIBITOR	Hyperlipidaemia	24-01-2026	500	4	
+042-S08-008	2	Paracetamol	ANALGESIC	Headache	05-03-2026	5	6	
+042-S09-008	1	Amlodipine	CCB	Hyperlipidaemia	04-03-2026	500	3	
+042-S10-008	1	Metformin	ANTIDIABETIC	Inflammation	27-03-2026	5	5	
+042-S10-008	2	Ibuprofen	NSAID	Pain	23-03-2026	10	4	
+042-S10-008	3	Lisinopril	ACE_INHIBITOR	Inflammation	27-12-2025	20	1	
+042-S11-008	1	Lisinopril	ACE_INHIBITOR	Pain	11-03-2026	500	6	
+042-S12-008	1	Lisinopril	ACE_INHIBITOR	Hyperlipidaemia	07-03-2026	5	4	
+042-S01-009	1	Metformin	ANTIDIABETIC	Reflux	17-04-2026	1000	6	
+042-S02-009	1	Amlodipine	CCB	Reflux	22-12-2025	5	1	
+042-S03-009	1	Omeprazole	PPI	Hypertension	15-Feb-26	10	2	
+042-S04-009	1	Amlodipine	CCB	Hyperlipidaemia	30-01-2026	10	2	
+042-S04-009	2	Paracetamol	ANALGESIC	Pain	21-03-2026	500	4	
+042-S05-009	1	Lisinopril	ACE_INHIBITOR	Pain	03-03-2026	500	3	
+042-S05-009	2	Aspirin	ANTIPLATELET	Reflux	25-02-2026	10	3	
+042-S06-009	1	Amlodipine	CCB	Reflux	05-04-2026	20	5	
+042-S06-009	2	Amlodipine	CCB	Inflammation	31-01-2026	1000	2	
+042-S06-009	3	Paracetamol	ANALGESIC	Back pain	13-12-2025	10	1	
+042-S07-009	1	Lisinopril	ACE_INHIBITOR	Pain	21-02-2026	500	3	
+042-S07-009	2	Lisinopril	ACE_INHIBITOR	Inflammation	17-02-2026	500	3	
+042-S08-009	1	Omeprazole	PPI	Inflammation	13-03-2026	10	7	
+042-S08-009	2	Paracetamol	ANALGESIC	Back pain	22-02-2026	5	6	
+042-S09-009	1	Amlodipine	CCB	Reflux	29-04-2026	500	6	
+042-S10-009	1	Paracetamol	ANALGESIC	Headache	20-04-2026	10	6	
+042-S10-009	2	Metformin	ANTIDIABETIC	Pain	29-04-2026	500	6	
+042-S10-009	3	Lisinopril	ACE_INHIBITOR	Hypertension	30-03-2026	500	5	
+042-S11-009	1	Aspirin	ANTIPLATELET	Reflux	05-03-2026	1000	6	
+042-S11-009	2	Omeprazole	PPI	Hyperlipidaemia	13-04-2026	1000	6	
+042-S11-009	3	Ibuprofen	NSAID	Pain	03-05-2026	10	7	
+042-S12-009	1	Amlodipine	CCB	Headache	14-03-2026	20	4	
+042-S12-009	2	Aspirin	ANTIPLATELET	Pain	05-05-2026	20	7	
+042-S12-009	3	Metformin	ANTIDIABETIC	Inflammation	11-03-2026	10	4	
+042-S01-010	1	Ibuprofen	NSAID	Pain	07-04-2026	1000	5	
+042-S02-010	1	Prednisolone	SYSTEMIC_GLUCOCORTICOID	Hyperlipidaemia	22-03-2026	500	4	
+042-S03-010	1	Metformin	ANTIDIABETIC	Headache	21-Jan-26	500	1	
+042-S03-010	2	Atorvastatin	STATIN	Headache	13-Jan-26	5	1	
+042-S04-010	1	Lisinopril	ACE_INHIBITOR	Hyperlipidaemia	30-12-2025	20	1	
+042-S05-010	1	Omeprazole	PPI	Headache	20-01-2026	5	1	
+042-S05-010	2	Lisinopril	ACE_INHIBITOR	Headache	24-12-2025	20	1	
+042-S05-010	3	Metformin	ANTIDIABETIC	Reflux	08-02-2026	5	2	
+042-S06-010	1	Ibuprofen	NSAID	Headache	03-03-2026	5	3	
+042-S07-010	1	Lisinopril	ACE_INHIBITOR	Hypertension	15-01-2026	1000	1	
+042-S07-010	2	Aspirin	ANTIPLATELET	Pain	03-02-2026	1000	2	
+042-S07-010	3	Lisinopril	ACE_INHIBITOR	Hyperlipidaemia	03-03-2026	5	3	
+042-S08-010	1	Ibuprofen	NSAID	Pain	06-02-2026	5	5	
+042-S08-010	2	Lisinopril	ACE_INHIBITOR	Pain	10-03-2026	20	7	
+042-S09-010	1	Ibuprofen	NSAID	Back pain	06-02-2026	5	2	
+042-S10-010	1	Lisinopril	ACE_INHIBITOR	Inflammation	24-12-2025	20	1	
+042-S10-010	2	Lisinopril	ACE_INHIBITOR	Hyperlipidaemia	24-03-2026	20	4	
+042-S10-010	3	Omeprazole	PPI	Reflux	24-12-2025	1000	1	
+042-S11-010	1	Omeprazole	PPI	Pain	27-04-2026	10	6	
+042-S12-010	1	Omeprazole	PPI	Headache	17-01-2026	500	1	
+042-S12-010	2	Ibuprofen	NSAID	Back pain	27-01-2026	500	1	
+042-S01-011	1	Ibuprofen	NSAID	Pain	22-04-2026	5	6	
+042-S01-011	2	Amlodipine	CCB	Hypertension	01-04-2026	10	5	
+042-S02-011	1	Paracetamol	ANALGESIC	Back pain	21-02-2026	20	3	
+042-S02-011	2	Metformin	ANTIDIABETIC	Hypertension	26-01-2026	10	1	
+042-S03-011	1	Aspirin	ANTIPLATELET	Hypertension	21-Feb-26	1000	3	
+042-S03-011	2	Atorvastatin	STATIN	Hyperlipidaemia	26-Mar-26	5	5	
+042-S03-011	3	Omeprazole	PPI	Pain	12-Mar-26	500	4	
+042-S04-011	1	Amlodipine	CCB	Reflux	11-03-2026	500	4	
+042-S05-011	1	Ibuprofen	NSAID	Headache	06-04-2026	10	5	
+042-S05-011	2	Paracetamol	ANALGESIC	Back pain	05-03-2026	500	3	
+042-S06-011	1	Aspirin	ANTIPLATELET	Hypertension	22-03-2026	1000	4	
+042-S06-011	2	Omeprazole	PPI	Reflux	08-04-2026	5	5	
+042-S06-011	3	Omeprazole	PPI	Inflammation	31-12-2025	1000	1	
+042-S07-011	1	Lisinopril	ACE_INHIBITOR	Reflux	02-03-2026	1000	3	
+042-S07-011	2	Amlodipine	CCB	Inflammation	14-02-2026	5	2	
+042-S08-011	1	Paracetamol	ANALGESIC	Back pain	30-12-2025	1000	4	
+042-S08-011	2	Lisinopril	ACE_INHIBITOR	Inflammation	07-04-2026	500	8	
+042-S09-011	1	Metformin	ANTIDIABETIC	Headache	14-04-2026	5	6	
+042-S10-011	1	Lisinopril	ACE_INHIBITOR	Inflammation	17-01-2026	1000	1	
+042-S10-011	2	Metformin	ANTIDIABETIC	Reflux	07-03-2026	1000	4	
+042-S10-011	3	Paracetamol	ANALGESIC	Back pain	09-04-2026	20	5	
+042-S11-011	1	Atorvastatin	STATIN	Hyperlipidaemia	22-04-2026	500	6	
+042-S11-011	2	Atorvastatin	STATIN	Headache	11-02-2026	5	6	
+042-S12-011	1	Amlodipine	CCB	Inflammation	26-12-2025	500	1	
+042-S01-012	1	Omeprazole	PPI	Headache	13-04-2026	20	6	
+042-S01-012	2	Omeprazole	PPI	Reflux	27-12-2025	1000	1	
+042-S01-012	3	Amlodipine	CCB	Pain	12-02-2026	20	2	
+042-S02-012	1	Amlodipine	CCB	Reflux	18-04-2026	5	6	
+042-S02-012	2	Omeprazole	PPI	Hyperlipidaemia	08-03-2026	1000	4	
+042-S02-012	3	Ibuprofen	NSAID	Pain	11-02-2026	10	2	
+042-S03-012	1	Atorvastatin	STATIN	Reflux	27-Feb-26	20	3	
+042-S03-012	2	Lisinopril	ACE_INHIBITOR	Pain	22-Mar-26	20	4	
+042-S04-012	1	Ibuprofen	NSAID	Back pain	31-03-2026	500	5	
+042-S04-012	2	Paracetamol	ANALGESIC	Headache	22-01-2026	500	1	
+042-S04-012	3	Metformin	ANTIDIABETIC	Hyperlipidaemia	25-12-2025	5	1	
+042-S05-012	1	Glibenclamide	SULFONYLUREA	Pain	03-03-2026	5	3	
+042-S05-012	2	Aspirin	ANTIPLATELET	Hyperlipidaemia	18-03-2026	10	4	
+042-S06-012	1	Amlodipine	CCB	Hyperlipidaemia	22-03-2026	10	4	
+042-S06-012	2	Amlodipine	CCB	Hyperlipidaemia	30-04-2026	20	7	
+042-S07-012	1	Amlodipine	CCB	Inflammation	12-02-2026	500	2	
+042-S07-012	2	Ibuprofen	NSAID	Pain	03-02-2026	500	2	
+042-S08-012	1	Omeprazole	PPI	Hypertension	22-12-2025	10	4	
+042-S08-012	2	Omeprazole	PPI	Pain	24-04-2026	1000	9	
+042-S09-012	1	Prednisolone	SYSTEMIC_GLUCOCORTICOID	Hyperlipidaemia	17-01-2026	20	1	
+042-S10-012	1	Ibuprofen	NSAID	Pain	25-02-2026	5	3	
+042-S10-012	2	Metformin	ANTIDIABETIC	Hypertension	09-04-2026	20	5	
+042-S11-012	1	Ibuprofen	NSAID	Headache	16-02-2026	500	6	
+042-S11-012	2	Ibuprofen	NSAID	Headache	08-05-2026	5	7	
+042-S12-012	1	Lisinopril	ACE_INHIBITOR	Inflammation	03-01-2026	1000	1	
+042-S12-012	2	Ibuprofen	NSAID	Headache	07-01-2026	5	1	
+042-S12-012	3	Lisinopril	ACE_INHIBITOR	Hyperlipidaemia	25-04-2026	5	6	
+042-S01-013	1	Atorvastatin	STATIN	Hypertension	05-04-2026	1000	5	
+042-S02-013	1	Paracetamol	ANALGESIC	Back pain	09-02-2026	10	2	
+042-S02-013	2	Aspirin	ANTIPLATELET	Pain	26-12-2025	5	1	
+042-S02-013	3	Paracetamol	ANALGESIC	Headache	09-04-2026	5	5	
+042-S03-013	1	Aspirin	ANTIPLATELET	Inflammation	30-Dec-25	10	1	
+042-S04-013	1	Aspirin	ANTIPLATELET	Inflammation	18-12-2025	500	1	
+042-S04-013	2	Amlodipine	CCB	Hypertension	17-03-2026	1000	4	
+042-S05-013	1	Metformin	ANTIDIABETIC	Reflux	25-02-2026	5	3	
+042-S06-013	1	Omeprazole	PPI	Hyperlipidaemia	11-01-2026	20	1	
+042-S06-013	2	Ibuprofen	NSAID	Headache	16-01-2026	10	1	
+042-S07-013	1	Paracetamol	ANALGESIC	Pain	06-02-2026	1000	2	
+042-S08-013	1	Glibenclamide	SULFONYLUREA	Reflux	30-04-2026	1000	10	
+042-S08-013	2	Lisinopril	ACE_INHIBITOR	Hypertension	26-01-2026	5	4	
+042-S09-013	1	Prednisolone	SYSTEMIC_GLUCOCORTICOID	Hyperlipidaemia	23-04-2026	500	6	
+042-S09-013	2	Ibuprofen	NSAID	Pain	01-03-2026	500	3	
+042-S09-013	3	Ibuprofen	NSAID	Back pain	18-02-2026	500	3	
+042-S10-013	1	Omeprazole	PPI	Pain	09-01-2026	500	1	
+042-S10-013	2	Omeprazole	PPI	Reflux	02-01-2026	10	1	
+042-S10-013	3	Amlodipine	CCB	Hypertension	31-12-2025	1000	1	
+042-S11-013	1	Aspirin	ANTIPLATELET	Hypertension	15-04-2026	500	6	
+042-S11-013	2	Metformin	ANTIDIABETIC	Hypertension	12-04-2026	5	6	
+042-S11-013	3	Aspirin	ANTIPLATELET	Hyperlipidaemia	03-03-2026	5	6	
+042-S12-013	1	Aspirin	ANTIPLATELET	Headache	02-02-2026	500	2	
+042-S01-014	1	Ibuprofen	NSAID	Headache	05-03-2026	1000	3	
+042-S01-014	2	Amlodipine	CCB	Headache	23-01-2026	10	1	
+042-S02-014	1	Ibuprofen	NSAID	Headache	16-04-2026	10	6	
+042-S02-014	2	Ibuprofen	NSAID	Back pain	20-02-2026	500	3	
+042-S02-014	3	Atorvastatin	STATIN	Headache	29-12-2025	5	1	
+042-S03-014	1	Paracetamol	ANALGESIC	Pain	17-Jan-26	20	1	
+042-S03-014	2	Atorvastatin	STATIN	Inflammation	13-Jan-26	20	1	
+042-S04-014	1	Omeprazole	PPI	Hyperlipidaemia	11-02-2026	10	2	
+042-S04-014	2	Amlodipine	CCB	Reflux	09-02-2026	1000	2	
+042-S04-014	3	Amlodipine	CCB	Pain	12-02-2026	10	2	
+042-S05-014	1	Paracetamol	ANALGESIC	Back pain	05-01-2026	500	1	
+042-S05-014	2	Metformin	ANTIDIABETIC	Reflux	25-01-2026	20	1	
+042-S06-014	1	Atorvastatin	STATIN	Inflammation	14-03-2026	1000	4	
+042-S06-014	2	Omeprazole	PPI	Inflammation	21-03-2026	5	4	
+042-S06-014	3	Aspirin	ANTIPLATELET	Pain	30-12-2025	500	1	
+042-S07-014	1	Lisinopril	ACE_INHIBITOR	Inflammation	27-04-2026	5	6	
+042-S07-014	2	Ibuprofen	NSAID	Pain	12-02-2026	10	2	
+042-S08-014	1	Glibenclamide	SULFONYLUREA	Pain	08-02-2026	10	5	
+042-S08-014	2	Omeprazole	PPI	Hyperlipidaemia	08-02-2026	5	5	
+042-S08-014	3	Atorvastatin	STATIN	Hypertension	04-03-2026	10	6	
+042-S09-014	1	Paracetamol	ANALGESIC	Pain	11-01-2026	500	1	
+042-S10-014	1	Ibuprofen	NSAID	Back pain	16-02-2026	500	2	
+042-S10-014	2	Metformin	ANTIDIABETIC	Pain	07-02-2026	5	2	
+042-S11-014	1	Omeprazole	PPI	Headache	30-12-2025	5	6	
+042-S11-014	2	Ibuprofen	NSAID	Pain	04-05-2026	5	7	
+042-S11-014	3	Omeprazole	PPI	Headache	01-01-2026	5	6	
+042-S12-014	1	Metformin	ANTIDIABETIC	Hypertension	12-03-2026	20	4	
+042-S12-014	2	Omeprazole	PPI	Pain	01-04-2026	500	5	
+042-S01-015	1	Aspirin	ANTIPLATELET	Pain	23-02-2026	5	3	
+042-S01-015	2	Paracetamol	ANALGESIC	Pain	03-04-2026	1000	5	
+042-S02-015	1	Metformin	ANTIDIABETIC	Pain	01-04-2026	1000	5	
+042-S02-015	2	Omeprazole	PPI	Pain	10-02-2026	10	2	
+042-S03-015	1	Lisinopril	ACE_INHIBITOR	Hypertension	16-Jan-26	1000	1	
+042-S03-015	2	Omeprazole	PPI	Pain	22-Apr-26	10	6	
+042-S03-015	3	Omeprazole	PPI	Hypertension	13-Jan-26	1000	1	
+042-S04-015	1	Atorvastatin	STATIN	Pain	16-01-2026	20	1	
+042-S04-015	2	Paracetamol	ANALGESIC	Pain	24-04-2026	10	6	
+042-S05-015	1	Atorvastatin	STATIN	Headache	26-02-2026	20	3	
+042-S06-015	1	Omeprazole	PPI	Hypertension	20-02-2026	500	3	
+042-S07-015	1	Ibuprofen	NSAID	Back pain	19-04-2026	20	6	
+042-S07-015	2	Metformin	ANTIDIABETIC	Headache	03-03-2026	5	3	
+042-S08-015	1	Lisinopril	ACE_INHIBITOR	Inflammation	09-04-2026	5	8	
+042-S09-015	1	Amlodipine	CCB	Pain	06-01-2026	20	1	
+042-S09-015	2	Lisinopril	ACE_INHIBITOR	Headache	19-02-2026	500	3	
+042-S09-015	3	Aspirin	ANTIPLATELET	Headache	24-04-2026	5	6	
+042-S10-015	1	Omeprazole	PPI	Headache	09-02-2026	10	2	
+042-S10-015	2	Atorvastatin	STATIN	Headache	04-05-2026	5	7	
+042-S11-015	1	Ibuprofen	NSAID	Back pain	10-04-2026	20	6	
+042-S11-015	2	Omeprazole	PPI	Hypertension	18-03-2026	500	6	
+042-S11-015	3	Aspirin	ANTIPLATELET	Hypertension	02-01-2026	20	6	
+042-S12-015	1	Atorvastatin	STATIN	Inflammation	12-02-2026	5	2	
+042-S01-016	1	Metformin	ANTIDIABETIC	Pain	13-03-2026	5	4	
+042-S01-016	2	Aspirin	ANTIPLATELET	Hyperlipidaemia	26-01-2026	500	1	
+042-S02-016	1	Atorvastatin	STATIN	Pain	16-01-2026	1000	1	
+042-S02-016	2	Ibuprofen	NSAID	Headache	03-03-2026	500	3	
+042-S03-016	1	Aspirin	ANTIPLATELET	Hyperlipidaemia	02-Apr-26	5	5	
+042-S03-016	2	Metformin	ANTIDIABETIC	Headache	13-Mar-26	5	4	
+042-S03-016	3	Aspirin	ANTIPLATELET	Headache	13-Jan-26	5	1	
+042-S04-016	1	Lisinopril	ACE_INHIBITOR	Hypertension	29-03-2026	20	5	
+042-S04-016	2	Omeprazole	PPI	Hypertension	10-01-2026	10	1	
+042-S04-016	3	Omeprazole	PPI	Headache	05-02-2026	500	2	
+042-S05-016	1	Metformin	ANTIDIABETIC	Reflux	31-12-2025	10	1	
+042-S06-016	1	Paracetamol	ANALGESIC	Headache	04-01-2026	10	1	
+042-S06-016	2	Atorvastatin	STATIN	Hyperlipidaemia	05-04-2026	20	5	
+042-S06-016	3	Amlodipine	CCB	Hypertension	17-01-2026	500	1	
+042-S07-016	1	Metformin	ANTIDIABETIC	Inflammation	08-03-2026	500	4	
+042-S07-016	2	Metformin	ANTIDIABETIC	Reflux	05-05-2026	1000	7	
+042-S07-016	3	Paracetamol	ANALGESIC	Pain	24-04-2026	500	6	
+042-S08-016	1	Lisinopril	ACE_INHIBITOR	Pain	23-02-2026	5	6	
+042-S08-016	2	Ibuprofen	NSAID	Headache	12-04-2026	5	9	
+042-S08-016	3	Ibuprofen	NSAID	Headache	27-04-2026	500	9	
+042-S09-016	1	Paracetamol	ANALGESIC	Headache	02-01-2026	20	1	
+042-S10-016	1	Amlodipine	CCB	Reflux	11-02-2026	1000	2	
+042-S11-016	1	Paracetamol	ANALGESIC	Pain	21-03-2026	500	6	
+042-S11-016	2	Amlodipine	CCB	Pain	21-03-2026	10	6	
+042-S11-016	3	Metformin	ANTIDIABETIC	Hyperlipidaemia	19-02-2026	10	6	
+042-S12-016	1	Aspirin	ANTIPLATELET	Reflux	16-12-2025	1000	1	
+042-S12-016	2	Lisinopril	ACE_INHIBITOR	Hypertension	02-04-2026	5	5	
+042-S01-017	1	Amlodipine	CCB	Reflux	25-12-2025	500	1	
+042-S01-017	2	Paracetamol	ANALGESIC	Headache	07-04-2026	20	5	
+042-S01-017	3	Paracetamol	ANALGESIC	Headache	09-01-2026	10	1	
+042-S02-017	1	Aspirin	ANTIPLATELET	Pain	17-04-2026	10	6	
+042-S03-017	1	Aspirin	ANTIPLATELET	Reflux	12-Apr-26	20	6	
+042-S03-017	2	Atorvastatin	STATIN	Inflammation	28-Feb-26	500	3	
+042-S03-017	3	Amlodipine	CCB	Headache	03-May-26	1000	7	
+042-S04-017	1	Metformin	ANTIDIABETIC	Reflux	14-02-2026	20	2	
+042-S05-017	1	Ibuprofen	NSAID	Headache	19-02-2026	500	3	
+042-S06-017	1	Atorvastatin	STATIN	Hyperlipidaemia	23-04-2026	500	6	
+042-S06-017	2	Paracetamol	ANALGESIC	Headache	01-04-2026	20	5	
+042-S06-017	3	Lisinopril	ACE_INHIBITOR	Hyperlipidaemia	14-04-2026	10	6	
+042-S07-017	1	Amlodipine	CCB	Hyperlipidaemia	06-01-2026	1000	1	
+042-S07-017	2	Paracetamol	ANALGESIC	Pain	14-02-2026	20	2	
+042-S08-017	1	Atorvastatin	STATIN	Reflux	06-01-2026	1000	4	
+042-S08-017	2	Atorvastatin	STATIN	Inflammation	19-04-2026	10	9	
+042-S08-017	3	Ibuprofen	NSAID	Back pain	15-03-2026	1000	7	
+042-S09-017	1	Ibuprofen	NSAID	Pain	26-04-2026	1000	6	
+042-S09-017	2	Paracetamol	ANALGESIC	Headache	03-05-2026	500	7	
+042-S09-017	3	Atorvastatin	STATIN	Hyperlipidaemia	27-04-2026	500	6	
+042-S10-017	1	Aspirin	ANTIPLATELET	Pain	18-01-2026	10	1	
+042-S10-017	2	Lisinopril	ACE_INHIBITOR	Pain	27-02-2026	5	3	
+042-S10-017	3	Ibuprofen	NSAID	Headache	14-02-2026	500	2	
+042-S11-017	1	Metformin	ANTIDIABETIC	Headache	28-01-2026	10	6	
+042-S11-017	2	Omeprazole	PPI	Inflammation	20-02-2026	5	6	
+042-S12-017	1	Atorvastatin	STATIN	Hypertension	04-03-2026	5	3	
+042-S12-017	2	Atorvastatin	STATIN	Inflammation	06-02-2026	1000	2	
+042-S12-017	3	Aspirin	ANTIPLATELET	Reflux	23-01-2026	10	1	
+042-S01-018	1	Lisinopril	ACE_INHIBITOR	Hypertension	27-04-2026	1000	6	
+042-S01-018	2	Atorvastatin	STATIN	Hypertension	02-02-2026	500	2	
+042-S01-018	3	Metformin	ANTIDIABETIC	Pain	27-12-2025	500	1	
+042-S02-018	1	Aspirin	ANTIPLATELET	Pain	04-03-2026	1000	3	
+042-S03-018	1	Aspirin	ANTIPLATELET	Hypertension	11-Feb-26	20	2	
+042-S04-018	1	Metformin	ANTIDIABETIC	Inflammation	07-03-2026	5	4	
+042-S05-018	1	Amlodipine	CCB	Headache	27-01-2026	20	1	
+042-S06-018	1	Atorvastatin	STATIN	Hyperlipidaemia	28-01-2026	5	1	
+042-S07-018	1	Amlodipine	CCB	Inflammation	18-01-2026	20	1	
+042-S07-018	2	Ibuprofen	NSAID	Back pain	27-02-2026	10	3	
+042-S07-018	3	Paracetamol	ANALGESIC	Pain	31-03-2026	20	5	
+042-S08-018	1	Amlodipine	CCB	Hyperlipidaemia	08-04-2026	1000	8	
+042-S08-018	2	Metformin	ANTIDIABETIC	Hyperlipidaemia	31-12-2025	1000	4	
+042-S09-018	1	Metformin	ANTIDIABETIC	Reflux	09-02-2026	20	2	
+042-S10-018	1	Atorvastatin	STATIN	Hypertension	16-04-2026	500	6	
+042-S11-018	1	Ibuprofen	NSAID	Headache	20-04-2026	1000	6	
+042-S11-018	2	Amlodipine	CCB	Reflux	27-02-2026	1000	6	
+042-S12-018	1	Omeprazole	PPI	Inflammation	10-01-2026	20	1	
+042-S12-018	2	Atorvastatin	STATIN	Pain	18-04-2026	500	6	
+042-S12-018	3	Omeprazole	PPI	Inflammation	02-01-2026	10	1	
+042-S01-019	1	Atorvastatin	STATIN	Inflammation	21-01-2026	10	1	
+042-S01-019	2	Paracetamol	ANALGESIC	Back pain	22-04-2026	10	6	
+042-S01-019	3	Paracetamol	ANALGESIC	Back pain	11-02-2026	10	2	
+042-S02-019	1	Lisinopril	ACE_INHIBITOR	Hyperlipidaemia	31-12-2025	20	1	
+042-S02-019	2	Atorvastatin	STATIN	Headache	22-04-2026	10	6	
+042-S03-019	1	Ibuprofen	NSAID	Pain	12-Apr-26	20	6	
+042-S03-019	2	Aspirin	ANTIPLATELET	Pain	08-Apr-26	5	5	
+042-S04-019	1	Aspirin	ANTIPLATELET	Inflammation	22-04-2026	10	6	
+042-S04-019	2	Aspirin	ANTIPLATELET	Inflammation	15-02-2026	5	2	
+042-S04-019	3	Amlodipine	CCB	Hyperlipidaemia	27-01-2026	20	1	
+042-S05-019	1	Aspirin	ANTIPLATELET	Reflux	15-03-2026	20	4	
+042-S06-019	1	Lisinopril	ACE_INHIBITOR	Hyperlipidaemia	29-03-2026	10	5	
+042-S06-019	2	Aspirin	ANTIPLATELET	Inflammation	28-04-2026	10	6	
+042-S06-019	3	Atorvastatin	STATIN	Headache	07-02-2026	10	2	
+042-S07-019	1	Lisinopril	ACE_INHIBITOR	Reflux	17-12-2025	500	1	
+042-S08-019	1	Ibuprofen	NSAID	Pain	20-04-2026	500	9	
+042-S09-019	1	Atorvastatin	STATIN	Hyperlipidaemia	06-05-2026	500	7	
+042-S09-019	2	Metformin	ANTIDIABETIC	Inflammation	05-05-2026	5	7	
+042-S09-019	3	Metformin	ANTIDIABETIC	Pain	01-02-2026	500	2	
+042-S10-019	1	Aspirin	ANTIPLATELET	Pain	25-04-2026	500	6	
+042-S10-019	2	Omeprazole	PPI	Reflux	15-01-2026	1000	1	
+042-S11-019	1	Lisinopril	ACE_INHIBITOR	Inflammation	30-04-2026	5	7	
+042-S12-019	1	Paracetamol	ANALGESIC	Headache	08-03-2026	20	4	
+042-S12-019	2	Paracetamol	ANALGESIC	Pain	02-02-2026	20	2	
+042-S01-020	1	Omeprazole	PPI	Pain	22-01-2026	20	1	
+042-S01-020	2	Amlodipine	CCB	Pain	14-03-2026	500	4	
+042-S02-020	1	Lisinopril	ACE_INHIBITOR	Hypertension	09-04-2026	10	5	
+042-S02-020	2	Paracetamol	ANALGESIC	Back pain	27-03-2026	5	5	
+042-S03-020	1	Aspirin	ANTIPLATELET	Reflux	31-Dec-25	500	1	
+042-S03-020	2	Metformin	ANTIDIABETIC	Inflammation	19-Mar-26	10	4	
+042-S03-020	3	Aspirin	ANTIPLATELET	Headache	02-May-26	1000	7	
+042-S04-020	1	Aspirin	ANTIPLATELET	Hypertension	07-01-2026	10	1	
+042-S04-020	2	Metformin	ANTIDIABETIC	Hyperlipidaemia	24-01-2026	10	1	
+042-S05-020	1	Lisinopril	ACE_INHIBITOR	Reflux	14-04-2026	1000	6	
+042-S05-020	2	Ibuprofen	NSAID	Pain	15-04-2026	500	6	
+042-S05-020	3	Atorvastatin	STATIN	Reflux	05-01-2026	10	1	
+042-S06-020	1	Metformin	ANTIDIABETIC	Inflammation	06-01-2026	10	1	
+042-S07-020	1	Metformin	ANTIDIABETIC	Headache	01-03-2026	20	3	
+042-S08-020	1	Aspirin	ANTIPLATELET	Headache	28-02-2026	10	6	
+042-S08-020	2	Lisinopril	ACE_INHIBITOR	Pain	11-02-2026	1000	5	
+042-S08-020	3	Atorvastatin	STATIN	Pain	13-02-2026	5	5	
+042-S09-020	1	Lisinopril	ACE_INHIBITOR	Headache	29-04-2026	5	6	
+042-S10-020	1	Omeprazole	PPI	Inflammation	21-01-2026	10	1	
+042-S10-020	2	Atorvastatin	STATIN	Pain	06-05-2026	1000	7	
+042-S11-020	1	Atorvastatin	STATIN	Reflux	03-03-2026	500	6	
+042-S12-020	1	Omeprazole	PPI	Hyperlipidaemia	13-01-2026	20	1	
+042-S12-020	2	Atorvastatin	STATIN	Inflammation	24-03-2026	500	4	
+cut	domain	usubjid	seq	field	old_value	new_value	reason
+5	LB	042-S08-001	8	LBORRES	26.5	25.92	central lab re-issue
+5	LB	042-S02-020	11	LBORRES	175.2	173.21	central lab re-issue
+5	LB	042-S05-006	8	LBORRES	18.1	17.94	central lab re-issue
+5	LB	042-S07-011	1	LBORRES	0.6	0.61	central lab re-issue
+5	LB	042-S06-006	6	LBORRES	0.8	0.78	central lab re-issue
+5	LB	042-S05-007	4	LBORRES	9.26	9.13	central lab re-issue
+5	LB	042-S03-015	1	LBORRES	24.8	25.44	central lab re-issue
+5	LB	042-S05-012	14	LBORRES	22.4	22.95	central lab re-issue
+5	LB	042-S10-020	4	LBORRES	7.31	7.1	central lab re-issue
+5	LB	042-S06-009	9	LBORRES	0.97	0.96	central lab re-issue
+5	LB	042-S02-015	2	LBORRES	17.4	17.16	central lab re-issue
+5	LB	042-S01-012	17	LBORRES	133.3	132.87	central lab re-issue
+5	LB	042-S02-010	30	LBORRES	0.96	0.96	central lab re-issue
+5	LB	042-S06-001	26	LBORRES	22.1	22.44	central lab re-issue
+5	LB	042-S06-002	13	LBORRES	36.6	36.44	central lab re-issue
+5	LB	042-S04-013	30	LBORRES	0.92	0.9	central lab re-issue
+5	LB	042-S02-009	8	LBORRES	32.1	32.42	central lab re-issue
+5	LB	042-S03-008	16	LBORRES	8.67	8.69	central lab re-issue
+5	LB	042-S09-006	11	LBORRES	140.2	136.65	central lab re-issue
+5	LB	042-S12-009	29	LBORRES	149.5	150.85	central lab re-issue
+5	LB	042-S12-005	13	LBORRES	17.5	17.28	central lab re-issue
+5	LB	042-S09-009	16	LBORRES	9.59	9.52	central lab re-issue
+5	LB	042-S01-019	22	LBORRES	7.18	7.03	central lab re-issue
+5	LB	042-S01-001	12	LBORRES	1.17	1.2	central lab re-issue
+5	LB	042-S09-002	22	LBORRES	8.83	8.78	central lab re-issue
+5	LB	042-S09-016	10	LBORRES	9.44	9.37	central lab re-issue
+5	LB	042-S05-003	11	LBORRES	160.2	161.14	central lab re-issue
+5	LB	042-S05-012	24	LBORRES	0.74	0.72	central lab re-issue
+5	LB	042-S02-011	5	LBORRES	160.9	161.12	central lab re-issue
+5	LB	042-S04-007	20	LBORRES	31	31.66	central lab re-issue
+5	LB	042-S01-012	1	LBORRES	35.9	35.44	central lab re-issue
+5	LB	042-S02-008	28	LBORRES	8.95	9.15	central lab re-issue
+5	LB	042-S09-013	17	LBORRES	94.7	97.32	central lab re-issue
+5	LB	042-S07-001	1	LBORRES	0.265	0.27	central lab re-issue
+5	LB	042-S10-011	21	LBORRES	0.97	0.98	central lab re-issue
+5	LB	042-S01-019	21	LBORRES	0.3	0.3	central lab re-issue
+5	LB	042-S01-013	19	LBORRES	39.5	38.86	central lab re-issue
+5	LB	042-S01-018	14	LBORRES	29.6	30.44	central lab re-issue
+5	LB	042-S10-012	13	LBORRES	43.5	42.62	central lab re-issue
+5	LB	042-S04-018	23	LBORRES	113.8	116.57	central lab re-issue
+5	LB	042-S10-019	6	LBORRES	0.79	0.81	central lab re-issue
+5	LB	042-S03-014	30	LBORRES	1.05	1.03	central lab re-issue
+5	LB	042-S05-014	22	LBORRES	9.77	9.98	central lab re-issue
+5	LB	042-S01-015	18	LBORRES	0.91	0.89	central lab re-issue
+5	LB	042-S04-018	21	LBORRES	0.63	0.65	central lab re-issue
+5	LB	042-S09-003	9	LBORRES	0.64	0.64	central lab re-issue
+5	LB	042-S09-006	3	LBORRES	0.99	0.97	central lab re-issue
+5	LB	042-S04-008	11	LBORRES	150.5	150.61	central lab re-issue
+5	LB	042-S09-002	24	LBORRES	0.87	0.85	central lab re-issue
+5	LB	042-S06-009	20	LBORRES	25	24.76	central lab re-issue
+5	LB	042-S05-010	24	LBORRES	0.82	0.8	central lab re-issue
+5	LB	042-S02-005	14	LBORRES	15.5	15.35	central lab re-issue
+5	LB	042-S07-008	3	LBORRES	0.85	0.83	central lab re-issue
+5	LB	042-S07-008	15	LBORRES	0.67	0.67	central lab re-issue
+5	LB	042-S03-016	9	LBORRES	0.3	0.3	central lab re-issue
+5	LB	042-S01-013	3	LBORRES	0.79	0.8	central lab re-issue
+5	LB	042-S07-008	9	LBORRES	0.58	0.57	central lab re-issue
+5	LB	042-S03-017	7	LBORRES	35.7	35.37	central lab re-issue
+5	LB	042-S09-002	27	LBORRES	0.68	0.66	central lab re-issue
+5	LB	042-S12-019	29	LBORRES	170.5	168.03	central lab re-issue
+5	LB	042-S09-009	10	LBORRES	9.6	9.48	central lab re-issue
+5	LB	042-S12-006	11	LBORRES	100.5	98.03	central lab re-issue
+5	LB	042-S06-010	26	LBORRES	25.4	25.28	central lab re-issue
+5	LB	042-S08-001	16	LBORRES	9.27	9.11	central lab re-issue
+5	LB	042-S10-016	13	LBORRES	34	33.53	central lab re-issue
+5	LB	042-S06-001	11	LBORRES	125.4	121.66	central lab re-issue
+5	LB	042-S06-019	20	LBORRES	12.5	12.47	central lab re-issue
+5	LB	042-S04-008	17	LBORRES	100.8	99.59	central lab re-issue
+5	LB	042-S08-010	9	LBORRES	0.9	0.91	central lab re-issue
+5	LB	042-S01-003	29	LBORRES	129.3	128.42	central lab re-issue
+5	LB	042-S05-015	15	LBORRES	0.94	0.93	central lab re-issue
+5	LB	042-S08-008	1	LBORRES	33	33.51	central lab re-issue
+5	LB	042-S02-002	5	LBORRES	107.9	106.07	central lab re-issue
+5	LB	042-S06-011	4	LBORRES	9.55	9.6	central lab re-issue
+5	LB	042-S09-006	10	LBORRES	10.23	10.31	central lab re-issue
+5	LB	042-S07-017	22	LBORRES	8.27	8.15	central lab re-issue
+5	LB	042-S03-005	14	LBORRES	21.1	21.53	central lab re-issue
+5	LB	042-S08-017	13	LBORRES	16.3	16.46	central lab re-issue
+5	LB	042-S09-020	2	LBORRES	14	14.21	central lab re-issue
+5	LB	042-S02-008	10	LBORRES	9.39	9.26	central lab re-issue
+5	LB	042-S07-018	30	LBORRES	1.01	1	central lab re-issue
+5	LB	042-S02-012	24	LBORRES	1.17	1.18	central lab re-issue
+5	LB	042-S01-011	19	LBORRES	33.6	33.78	central lab re-issue
+5	LB	042-S09-003	3	LBORRES	0.89	0.88	central lab re-issue
+5	LB	042-S07-006	21	LBORRES	0.85	0.82	central lab re-issue
+5	LB	042-S01-005	3	LBORRES	0.4	0.4	central lab re-issue
+5	LB	042-S07-013	16	LBORRES	9.99	10.11	central lab re-issue
+5	LB	042-S04-003	26	LBORRES	33.7	33.6	central lab re-issue
+5	LB	042-S04-002	28	LBORRES	7.69	7.61	central lab re-issue
+5	LB	042-S12-001	26	LBORRES	13.5	13.75	central lab re-issue
+5	LB	042-S03-009	23	LBORRES	144	143.95	central lab re-issue
+5	LB	042-S02-018	24	LBORRES	0.81	0.82	central lab re-issue
+5	LB	042-S02-019	25	LBORRES	32	32.55	central lab re-issue
+5	LB	042-S02-017	22	LBORRES	8.64	8.77	central lab re-issue
+5	LB	042-S10-003	17	LBORRES	107.6	108.69	central lab re-issue
+5	LB	042-S09-005	14	LBORRES	28.4	27.6	central lab re-issue
+5	LB	042-S12-012	1	LBORRES	20	19.91	central lab re-issue
+5	LB	042-S09-008	8	LBORRES	39.8	39.03	central lab re-issue
+5	LB	042-S05-007	27	LBORRES	0.83	0.84	central lab re-issue
+5	LB	042-S04-015	9	LBORRES	0.7	0.68	central lab re-issue
+5	LB	042-S04-008	16	LBORRES	8.94	9.05	central lab re-issue
+5	LB	042-S01-014	19	LBORRES	34.6	35.51	central lab re-issue
+5	LB	042-S09-020	4	LBORRES	9.08	8.91	central lab re-issue
+5	LB	042-S09-001	9	LBORRES	0.4	0.4	central lab re-issue
+5	LB	042-S12-017	17	LBORRES	165.1	166.68	central lab re-issue
+5	LB	042-S06-016	29	LBORRES	141.1	140.66	central lab re-issue
+5	LB	042-S08-003	12	LBORRES	1.11	1.14	central lab re-issue
+5	LB	042-S12-016	25	LBORRES	20.4	20.11	central lab re-issue
+5	LB	042-S04-005	26	LBORRES	21.7	22.18	central lab re-issue
+5	LB	042-S12-018	11	LBORRES	157.8	158.25	central lab re-issue
+5	LB	042-S06-001	10	LBORRES	8.63	8.62	central lab re-issue
+5	LB	042-S01-011	5	LBORRES	140.6	138.76	central lab re-issue
+5	LB	042-S04-002	24	LBORRES	0.96	0.95	central lab re-issue
+5	LB	042-S10-017	10	LBORRES	9.23	9.49	central lab re-issue
+5	LB	042-S07-003	18	LBORRES	0.86	0.86	central lab re-issue
+5	LB	042-S07-011	12	LBORRES	1.02	1.01	central lab re-issue
+5	LB	042-S10-006	1	LBORRES	23.3	23.9	central lab re-issue
+5	LB	042-S06-007	27	LBORRES	0.98	1	central lab re-issue
+5	LB	042-S09-016	9	LBORRES	0.73	0.74	central lab re-issue
+5	LB	042-S09-019	9	LBORRES	0.68	0.69	central lab re-issue
+5	LB	042-S02-005	28	LBORRES	6.75	6.55	central lab re-issue
+5	LB	042-S03-019	23	LBORRES	165.5	168	central lab re-issue
+5	LB	042-S09-007	1	LBORRES	12.6	12.64	central lab re-issue
+5	LB	042-S10-011	6	LBORRES	1	1.01	central lab re-issue
+5	LB	042-S06-004	6	LBORRES	1.01	1.03	central lab re-issue
+5	LB	042-S09-009	22	LBORRES	9.54	9.57	central lab re-issue
+5	LB	042-S02-017	20	LBORRES	27.6	26.85	central lab re-issue
+5	LB	042-S01-007	13	LBORRES	36.8	36.08	central lab re-issue
+5	LB	042-S08-004	10	LBORRES	9.01	9.13	central lab re-issue
+5	LB	042-S04-016	19	LBORRES	22.2	22.39	central lab re-issue
+5	LB	042-S10-012	25	LBORRES	45.9	46.87	central lab re-issue
+5	LB	042-S12-010	20	LBORRES	21	21.12	central lab re-issue
+5	LB	042-S06-014	26	LBORRES	13.2	13.21	central lab re-issue
+5	LB	042-S04-004	5	LBORRES	118.6	116.34	central lab re-issue
+5	LB	042-S01-004	18	LBORRES	1.05	1.08	central lab re-issue
+5	LB	042-S03-020	21	LBORRES	0.55	0.55	central lab re-issue
+5	LB	042-S10-017	26	LBORRES	26.1	25.52	central lab re-issue
+5	LB	042-S07-005	23	LBORRES	184.9	181.32	central lab re-issue
+5	LB	042-S07-020	21	LBORRES	0.49	0.48	central lab re-issue
+5	LB	042-S01-009	25	LBORRES	19.1	19.27	central lab re-issue
+5	LB	042-S12-016	9	LBORRES	0.94	0.96	central lab re-issue
+5	LB	042-S12-003	23	LBORRES	106.8	105.35	central lab re-issue
+5	LB	042-S10-004	16	LBORRES	8.02	7.85	central lab re-issue
+5	LB	042-S02-015	17	LBORRES	95.3	96.07	central lab re-issue
+5	LB	042-S10-006	6	LBORRES	0.69	0.7	central lab re-issue
+5	LB	042-S01-001	22	LBORRES	8.43	8.43	central lab re-issue
+5	LB	042-S09-001	15	LBORRES	0.51	0.5	central lab re-issue
+5	LB	042-S10-012	17	LBORRES	178.5	173.68	central lab re-issue
+5	LB	042-S09-005	16	LBORRES	10.06	9.85	central lab re-issue
+5	LB	042-S06-007	26	LBORRES	33.5	34.23	central lab re-issue
+5	LB	042-S09-015	6	LBORRES	1.11	1.12	central lab re-issue
+5	LB	042-S02-004	2	LBORRES	16.1	16.18	central lab re-issue
+5	LB	042-S02-015	30	LBORRES	1.09	1.12	central lab re-issue
+5	LB	042-S02-019	27	LBORRES	0.31	0.3	central lab re-issue
+5	LB	042-S04-018	1	LBORRES	29.9	29.57	central lab re-issue
+5	LB	042-S08-005	2	LBORRES	19.1	18.55	central lab re-issue
+5	LB	042-S05-008	16	LBORRES	9.46	9.63	central lab re-issue
+5	LB	042-S01-011	20	LBORRES	25.4	26.03	central lab re-issue
+5	LB	042-S02-004	28	LBORRES	6.83	6.69	central lab re-issue
+5	LB	042-S06-012	4	LBORRES	8.11	8.16	central lab re-issue
+5	LB	042-S08-014	1	LBORRES	24.1	24.71	central lab re-issue
+5	LB	042-S10-016	11	LBORRES	129.2	126.38	central lab re-issue
+5	LB	042-S05-003	25	LBORRES	14.3	14.18	central lab re-issue
+5	LB	042-S07-014	29	LBORRES	155.1	154.76	central lab re-issue
+5	LB	042-S05-013	30	LBORRES	0.76	0.78	central lab re-issue
+5	LB	042-S01-012	20	LBORRES	33.6	33.74	central lab re-issue
+5	LB	042-S04-004	27	LBORRES	0.39	0.39	central lab re-issue
+5	LB	042-S12-019	3	LBORRES	0.4	0.4	central lab re-issue
+5	LB	042-S10-020	6	LBORRES	0.83	0.82	central lab re-issue
+5	LB	042-S12-016	2	LBORRES	15.8	15.91	central lab re-issue
+5	LB	042-S02-013	8	LBORRES	14.3	14.57	central lab re-issue
+5	LB	042-S03-001	11	LBORRES	152.3	153.83	central lab re-issue
+5	LB	042-S07-014	11	LBORRES	143.9	147.6	central lab re-issue
+5	LB	042-S03-018	10	LBORRES	8.38	8.21	central lab re-issue
+5	LB	042-S04-003	23	LBORRES	170.7	173.67	central lab re-issue
+5	LB	042-S07-003	17	LBORRES	156.2	153.69	central lab re-issue
+5	LB	042-S01-014	21	LBORRES	0.75	0.77	central lab re-issue
+5	LB	042-S10-004	23	LBORRES	150.4	148.59	central lab re-issue
+5	LB	042-S01-018	11	LBORRES	138.3	138.72	central lab re-issue
+5	LB	042-S02-005	11	LBORRES	152.6	155.86	central lab re-issue
+5	LB	042-S06-007	11	LBORRES	111.8	111.58	central lab re-issue
+5	LB	042-S03-007	23	LBORRES	147.8	149.06	central lab re-issue
+5	LB	042-S06-020	9	LBORRES	0.31	0.3	central lab re-issue
+5	LB	042-S01-010	4	LBORRES	6.93	6.92	central lab re-issue
+5	LB	042-S08-016	8	LBORRES	27.5	27.56	central lab re-issue
+5	LB	042-S05-004	1	LBORRES	18.1	18.09	central lab re-issue
+5	LB	042-S10-007	22	LBORRES	7.23	7.35	central lab re-issue
+5	LB	042-S09-006	17	LBORRES	110.6	107.61	central lab re-issue
+5	LB	042-S12-010	21	LBORRES	0.57	0.57	central lab re-issue
+5	LB	042-S08-006	6	LBORRES	0.72	0.71	central lab re-issue
+5	LB	042-S03-003	22	LBORRES	8.39	8.29	central lab re-issue
+5	LB	042-S04-011	14	LBORRES	31.1	30.19	central lab re-issue
+5	LB	042-S10-007	7	LBORRES	25.1	25.12	central lab re-issue
+5	LB	042-S09-010	6	LBORRES	1.07	1.1	central lab re-issue
+5	LB	042-S12-012	22	LBORRES	9.93	10.11	central lab re-issue
+5	LB	042-S07-005	12	LBORRES	0.76	0.75	central lab re-issue
+5	LB	042-S09-020	8	LBORRES	25.6	25.72	central lab re-issue
+5	LB	042-S01-016	29	LBORRES	128.4	131.91	central lab re-issue
+5	LB	042-S09-013	12	LBORRES	1.12	1.09	central lab re-issue
+5	LB	042-S12-020	17	LBORRES	117.7	116.48	central lab re-issue
+
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-09-18T23:06:08+05:30.
+
+The user has uploaded 3 image(s):
+- C:/Users/Priyadharashini G/.gemini/antigravity/brain/495e6d56-0039-4721-b772-0ca90694a06c/.user_uploaded/media_1789752826251.png
+- C:/Users/Priyadharashini G/.gemini/antigravity/brain/495e6d56-0039-4721-b772-0ca90694a06c/.user_uploaded/media_1789752861468.png
+- C:/Users/Priyadharashini G/.gemini/antigravity/brain/495e6d56-0039-4721-b772-0ca90694a06c/.user_uploaded/media_1789752915553.png
+You can embed these images in an artifact if you need the USER to review them.
+</ADDITIONAL_METADATA>

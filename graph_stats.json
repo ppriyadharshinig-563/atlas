@@ -1,1 +1,7 @@
-{"nodes": 0, "edges": 0, "subjects": 0, "ms": 115, "cut": 10}
+{
+  "nodes": 17514,
+  "edges": 0,
+  "subjects": 241,
+  "ms": 10837,
+  "cut": 12
+}

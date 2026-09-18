@@ -1,0 +1,6 @@
+<USER_REQUEST>
+first i will all the files given in vit hackthon then we can start building okay
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-09-18T23:00:35+05:30.
+</ADDITIONAL_METADATA>

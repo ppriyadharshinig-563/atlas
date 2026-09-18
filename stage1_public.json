@@ -1,1 +1,201 @@
-[{"question_id": "q1", "answer": [], "text": "No matching records found.", "evidence": [], "confidence": 0.95, "steps_used": 1, "tokens_used": 0}]
+[
+  {
+    "question_id": "Q001",
+    "answer": [
+      "042-S05-003",
+      "042-S07-001",
+      "042-S08-014"
+    ],
+    "text": "Found 3 subjects.",
+    "evidence": [
+      {
+        "domain": "LB",
+        "usubjid": "042-S07-001",
+        "seq": 25,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "LB",
+        "usubjid": "042-S07-001",
+        "seq": 27,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "LB",
+        "usubjid": "042-S05-003",
+        "seq": 31,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "LB",
+        "usubjid": "042-S05-003",
+        "seq": 33,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "LB",
+        "usubjid": "042-S08-014",
+        "seq": 31,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "LB",
+        "usubjid": "042-S08-014",
+        "seq": 33,
+        "document": null,
+        "section": null
+      }
+    ],
+    "confidence": 1.0,
+    "steps_used": 1,
+    "tokens_used": 0
+  },
+  {
+    "question_id": "Q031",
+    "answer": [
+      "042-S09-006",
+      "042-S09-014",
+      "042-S09-009",
+      "042-S09-011",
+      "042-S09-004",
+      "042-S09-005"
+    ],
+    "text": "Found 6 subjects.",
+    "evidence": [
+      {
+        "domain": "EX",
+        "usubjid": "042-S09-004",
+        "seq": 2,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "EX",
+        "usubjid": "042-S09-004",
+        "seq": 3,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "EX",
+        "usubjid": "042-S09-004",
+        "seq": 4,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "EX",
+        "usubjid": "042-S09-005",
+        "seq": 2,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "EX",
+        "usubjid": "042-S09-005",
+        "seq": 3,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "EX",
+        "usubjid": "042-S09-005",
+        "seq": 4,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "EX",
+        "usubjid": "042-S09-006",
+        "seq": 2,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "EX",
+        "usubjid": "042-S09-006",
+        "seq": 3,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "EX",
+        "usubjid": "042-S09-006",
+        "seq": 4,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "EX",
+        "usubjid": "042-S09-009",
+        "seq": 2,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "EX",
+        "usubjid": "042-S09-009",
+        "seq": 3,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "EX",
+        "usubjid": "042-S09-009",
+        "seq": 4,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "EX",
+        "usubjid": "042-S09-011",
+        "seq": 2,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "EX",
+        "usubjid": "042-S09-011",
+        "seq": 3,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "EX",
+        "usubjid": "042-S09-011",
+        "seq": 4,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "EX",
+        "usubjid": "042-S09-014",
+        "seq": 2,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "EX",
+        "usubjid": "042-S09-014",
+        "seq": 3,
+        "document": null,
+        "section": null
+      },
+      {
+        "domain": "EX",
+        "usubjid": "042-S09-014",
+        "seq": 4,
+        "document": null,
+        "section": null
+      }
+    ],
+    "confidence": 1.0,
+    "steps_used": 1,
+    "tokens_used": 0
+  }
+]
